@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: ac0251e76a6d4e540ba321288ee81758
+timeCreated: 1513798098
+licenseType: Pro
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: DIN
+  fontNames:
+  - DIN
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a8a258bdcb23acc45a4624ea3c5a5d9a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

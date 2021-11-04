@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<UserAccount xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <m_accountName>bro1234</m_accountName>
+  <m_name_first>Billy</m_name_first>
+  <m_name_last>Dudebro</m_name_last>
+  <m_title>Bro</m_title>
+  <m_password>12345</m_password>
+  <m_isAdmin>false</m_isAdmin>
+</UserAccount>

@@ -1,0 +1,2620 @@
+fileFormatVersion: 2
+guid: 8246a761bc4ebdc46ac3857ab74a23fe
+timeCreated: 1512050064
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: vector-icon-solid-v2_0
+    21300002: vector-icon-solid-v2_1
+    21300004: vector-icon-solid-v2_2
+    21300006: vector-icon-solid-v2_3
+    21300008: vector-icon-solid-v2_4
+    21300010: vector-icon-solid-v2_5
+    21300012: vector-icon-solid-v2_7
+    21300014: vector-icon-solid-v2_9
+    21300016: vector-icon-solid-v2_11
+    21300018: vector-icon-solid-v2_13
+    21300020: vector-icon-solid-v2_15
+    21300022: vector-icon-solid-v2_16
+    21300024: vector-icon-solid-v2_17
+    21300026: vector-icon-solid-v2_20
+    21300028: vector-icon-solid-v2_21
+    21300030: vector-icon-solid-v2_23
+    21300032: vector-icon-solid-v2_24
+    21300034: vector-icon-solid-v2_25
+    21300036: vector-icon-solid-v2_26
+    21300038: vector-icon-solid-v2_27
+    21300040: vector-icon-solid-v2_28
+    21300042: vector-icon-solid-v2_29
+    21300044: vector-icon-solid-v2_30
+    21300046: vector-icon-solid-v2_31
+    21300048: vector-icon-solid-v2_32
+    21300050: vector-icon-solid-v2_35
+    21300052: vector-icon-solid-v2_39
+    21300054: vector-icon-solid-v2_40
+    21300056: vector-icon-solid-v2_41
+    21300058: vector-icon-solid-v2_42
+    21300060: vector-icon-solid-v2_43
+    21300062: vector-icon-solid-v2_44
+    21300064: vector-icon-solid-v2_45
+    21300066: vector-icon-solid-v2_46
+    21300068: vector-icon-solid-v2_47
+    21300070: vector-icon-solid-v2_48
+    21300072: vector-icon-solid-v2_49
+    21300074: vector-icon-solid-v2_50
+    21300076: vector-icon-solid-v2_51
+    21300078: vector-icon-solid-v2_53
+    21300080: vector-icon-solid-v2_54
+    21300082: vector-icon-solid-v2_55
+    21300084: vector-icon-solid-v2_56
+    21300086: vector-icon-solid-v2_57
+    21300088: vector-icon-solid-v2_60
+    21300090: vector-icon-solid-v2_62
+    21300092: vector-icon-solid-v2_64
+    21300094: vector-icon-solid-v2_66
+    21300096: vector-icon-solid-v2_67
+    21300098: vector-icon-solid-v2_68
+    21300100: vector-icon-solid-v2_69
+    21300102: vector-icon-solid-v2_76
+    21300104: vector-icon-solid-v2_77
+    21300106: vector-icon-solid-v2_78
+    21300108: vector-icon-solid-v2_80
+    21300110: vector-icon-solid-v2_81
+    21300112: vector-icon-solid-v2_82
+    21300114: vector-icon-solid-v2_83
+    21300116: vector-icon-solid-v2_84
+    21300118: vector-icon-solid-v2_85
+    21300120: vector-icon-solid-v2_86
+    21300122: vector-icon-solid-v2_87
+    21300124: vector-icon-solid-v2_88
+    21300126: vector-icon-solid-v2_89
+    21300128: vector-icon-solid-v2_90
+    21300130: vector-icon-solid-v2_97
+    21300132: vector-icon-solid-v2_98
+    21300134: vector-icon-solid-v2_99
+    21300136: vector-icon-solid-v2_100
+    21300138: vector-icon-solid-v2_103
+    21300140: vector-icon-solid-v2_104
+    21300142: vector-icon-solid-v2_105
+    21300144: vector-icon-solid-v2_106
+    21300146: vector-icon-solid-v2_107
+    21300148: vector-icon-solid-v2_108
+    21300150: vector-icon-solid-v2_109
+    21300152: vector-icon-solid-v2_111
+    21300154: vector-icon-solid-v2_112
+    21300156: vector-icon-solid-v2_113
+    21300158: vector-icon-solid-v2_115
+    21300160: vector-icon-solid-v2_116
+    21300162: vector-icon-solid-v2_117
+    21300164: vector-icon-solid-v2_118
+    21300166: vector-icon-solid-v2_119
+    21300168: vector-icon-solid-v2_120
+    21300170: vector-icon-solid-v2_121
+    21300172: vector-icon-solid-v2_122
+    21300174: vector-icon-solid-v2_123
+    21300176: vector-icon-solid-v2_125
+    21300178: vector-icon-solid-v2_126
+    21300180: vector-icon-solid-v2_129
+    21300182: vector-icon-solid-v2_138
+    21300184: vector-icon-solid-v2_139
+    21300186: vector-icon-solid-v2_141
+    21300188: vector-icon-solid-v2_142
+    21300190: vector-icon-solid-v2_143
+    21300192: vector-icon-solid-v2_145
+    21300194: vector-icon-solid-v2_146
+    21300196: vector-icon-solid-v2_147
+    21300198: vector-icon-solid-v2_148
+    21300200: vector-icon-solid-v2_150
+    21300202: vector-icon-solid-v2_151
+    21300204: vector-icon-solid-v2_154
+    21300206: vector-icon-solid-v2_156
+    21300208: vector-icon-solid-v2_160
+    21300210: vector-icon-solid-v2_162
+    21300212: vector-icon-solid-v2_163
+    21300214: vector-icon-solid-v2_164
+    21300216: vector-icon-solid-v2_168
+    21300218: vector-icon-solid-v2_170
+    21300220: vector-icon-solid-v2_174
+    21300222: vector-icon-solid-v2_175
+    21300224: vector-icon-solid-v2_179
+    21300226: vector-icon-solid-v2_180
+    21300228: vector-icon-solid-v2_181
+    21300230: vector-icon-solid-v2_184
+    21300232: vector-icon-solid-v2_185
+    21300234: vector-icon-solid-v2_188
+    21300236: vector-icon-solid-v2_189
+    21300238: vector-icon-solid-v2_195
+    21300240: vector-icon-solid-v2_196
+    21300242: vector-icon-solid-v2_197
+    21300244: vector-icon-solid-v2_198
+    21300246: vector-icon-solid-v2_199
+    21300248: vector-icon-solid-v2_200
+    21300250: vector-icon-solid-v2_201
+    21300252: vector-icon-solid-v2_202
+    21300254: vector-icon-solid-v2_203
+    21300256: vector-icon-solid-v2_204
+    21300258: vector-icon-solid-v2_205
+    21300260: vector-icon-solid-v2_223
+    21300262: vector-icon-solid-v2_224
+    21300264: vector-icon-solid-v2_225
+    21300266: vector-icon-solid-v2_226
+    21300268: vector-icon-solid-v2_227
+    21300270: vector-icon-solid-v2_228
+    21300272: vector-icon-solid-v2_229
+    21300274: vector-icon-solid-v2_230
+    21300276: vector-icon-solid-v2_231
+    21300278: vector-icon-solid-v2_232
+    21300280: vector-icon-solid-v2_233
+    21300282: vector-icon-solid-v2_234
+    21300284: vector-icon-solid-v2_235
+    21300286: vector-icon-solid-v2_238
+    21300288: vector-icon-solid-v2_239
+    21300290: vector-icon-solid-v2_240
+    21300292: vector-icon-solid-v2_241
+    21300294: vector-icon-solid-v2_242
+    21300296: vector-icon-solid-v2_243
+    21300298: vector-icon-solid-v2_244
+    21300300: vector-icon-solid-v2_245
+    21300302: vector-icon-solid-v2_246
+    21300304: vector-icon-solid-v2_247
+    21300306: vector-icon-solid-v2_248
+    21300308: vector-icon-solid-v2_251
+    21300310: vector-icon-solid-v2_252
+    21300312: vector-icon-solid-v2_254
+    21300314: vector-icon-solid-v2_255
+    21300316: vector-icon-solid-v2_256
+    21300318: vector-icon-solid-v2_257
+    21300320: vector-icon-solid-v2_258
+    21300322: vector-icon-solid-v2_259
+    21300324: vector-icon-solid-v2_260
+    21300326: vector-icon-solid-v2_261
+    21300328: vector-icon-solid-v2_262
+    21300330: vector-icon-solid-v2_263
+    21300332: vector-icon-solid-v2_264
+    21300334: vector-icon-solid-v2_266
+    21300336: vector-icon-solid-v2_268
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_0
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1904
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_1
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 1903
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_2
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 1903
+        width: 88
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_3
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1903
+        width: 87
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_4
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1903
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_5
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1904
+        width: 92
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_7
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1904
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_9
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 1904
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_11
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 1904
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_13
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1904
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_15
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 1904
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_16
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1912
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_17
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1930
+        width: 112
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1748
+        width: 105
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_21
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1748
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_23
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 1748
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_24
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 1748
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 1748
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_26
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1746
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1747
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_28
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 1748
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_29
+      rect:
+        serializedVersion: 2
+        x: 1285
+        y: 1748
+        width: 103
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_30
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1748
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_31
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 1748
+        width: 101
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_32
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 1760
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_35
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1760
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_40
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_41
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_42
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_43
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_44
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_45
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1612
+        width: 113
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_46
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 1592
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_47
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1594
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_48
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1611
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_49
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1595
+        width: 112
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_50
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 1604
+        width: 127
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_51
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1607
+        width: 112
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1445
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_54
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1444
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_55
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1444
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_56
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1440
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_57
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1436
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_60
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1436
+        width: 62
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1448
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_64
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1448
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_66
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1449
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_67
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1448
+        width: 112
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_68
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 1463
+        width: 110
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_69
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1455
+        width: 112
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_76
+      rect:
+        serializedVersion: 2
+        x: 1771
+        y: 1436
+        width: 66
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_77
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1293
+        width: 112
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_78
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1301
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_80
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1288
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_81
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 1280
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_82
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1280
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_83
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1280
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_84
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1280
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_85
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1280
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_86
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1280
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_87
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 1280
+        width: 95
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_88
+      rect:
+        serializedVersion: 2
+        x: 1908
+        y: 1280
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_89
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1319
+        width: 112
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_90
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1311
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1155
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_98
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1155
+        width: 112
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_99
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 1152
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1152
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_103
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1159
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_104
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 1159
+        width: 112
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_105
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1132
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_106
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 1145
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_107
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1139
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_108
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 1124
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_109
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1124
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_111
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 1151
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_112
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 1151
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_113
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 982
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_115
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 968
+        width: 98
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_116
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 968
+        width: 88
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_117
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 968
+        width: 36
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_118
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 968
+        width: 72
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_119
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 968
+        width: 50
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_120
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 968
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_121
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 968
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_122
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 968
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_123
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 969
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_125
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 991
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_126
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 991
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_129
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 968
+        width: 110
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_138
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 812
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_139
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 813
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_141
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 820
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_142
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 817
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_143
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 824
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_145
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 812
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_146
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 812
+        width: 94
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_147
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 817
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_148
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 815
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_150
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 813
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_151
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 813
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_154
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 812
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_156
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 812
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_160
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 655
+        width: 92
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_162
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 670
+        width: 112
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_163
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 665
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_164
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 668
+        width: 113
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_168
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 656
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_170
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 664
+        width: 112
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_174
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 656
+        width: 70
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_175
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 668
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_179
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 655
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_180
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 655
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_181
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 656
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_184
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 656
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_185
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 656
+        width: 56
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_188
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 500
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_189
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 524
+        width: 112
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_195
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_196
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 500
+        width: 106
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_197
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 523
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_198
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 500
+        width: 100
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_199
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_200
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 510
+        width: 112
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_201
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 517
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_202
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 517
+        width: 112
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_203
+      rect:
+        serializedVersion: 2
+        x: 1751
+        y: 499
+        width: 106
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_204
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 499
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_205
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 511
+        width: 112
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_223
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 351
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_224
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 351
+        width: 112
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_225
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 348
+        width: 112
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_226
+      rect:
+        serializedVersion: 2
+        x: 1753
+        y: 344
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_227
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 344
+        width: 102
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_228
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 360
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_229
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 360
+        width: 112
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_230
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 369
+        width: 112
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_231
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 371
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_232
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 371
+        width: 112
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_233
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 346
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_234
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 344
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_235
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 344
+        width: 76
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_238
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 188
+        width: 82
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_239
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 193
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_240
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 193
+        width: 112
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_241
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 188
+        width: 84
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_242
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 188
+        width: 86
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_243
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 188
+        width: 108
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_244
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 203
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_245
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 189
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_246
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 187
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_247
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 187
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_248
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 188
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_251
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 230
+        width: 112
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_252
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 189
+        width: 112
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_254
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 31
+        width: 112
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_255
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 104
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_256
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 31
+        width: 104
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_257
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 34
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_258
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 32
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_259
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 35
+        width: 112
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_260
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 38
+        width: 112
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_261
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 32
+        width: 92
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_262
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 32
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_263
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 32
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_264
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 44
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_266
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 44
+        width: 112
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: vector-icon-solid-v2_268
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 32
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

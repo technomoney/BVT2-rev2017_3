@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0cc2174-db07-46b3-ae71-910fe51689a4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BVT2/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BVT2/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scenes/MainSceneRestored_2_7_20.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scenes/MainSceneRestored_2_7_20.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6128">
+              <caret line="403" column="13" selection-start-line="403" selection-start-column="13" selection-end-line="403" selection-end-column="13" />
+              <folding>
+                <marker date="1604242863502" expanded="false" signature="6:131" ph="..." />
+                <marker date="1604242863502" expanded="true" signature="176:22242" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="222:314" ph="///     Event will be fired whenever a test is selected ... " />
+                <marker date="1604242863502" expanded="true" signature="376:501" ph="///     This should be set only by Target() and only if it was active and hit this frame ... " />
+                <marker date="1604242863502" expanded="true" signature="570:699" ph="///     flag to check if the balance plate cursor is currently over the active target or not ... " />
+                <marker date="1604242863502" expanded="true" signature="743:816" ph="///     the running highest streak.. ... " />
+                <marker date="1604242863502" expanded="true" signature="878:970" ph="///     If we recorded data, this is where it is stored ... " />
+                <marker date="1604242863502" expanded="true" signature="1011:1089" ph="///     stream writer for writing bp data ... " />
+                <marker date="1604242863502" expanded="true" signature="1210:1300" ph="///     how long have we been hovering over a target? ... " />
+                <marker date="1604242863502" expanded="true" signature="1365:1503" ph="///     the time since the last target was hit, when to reset this should be up to each deriving test ... " />
+                <marker date="1604242863502" expanded="true" signature="1568:1661" ph="///     generic holder for tracking misses during a test ... " />
+                <marker date="1604242863502" expanded="true" signature="1769:1968" ph="///     A flag to check if a target has been pre=spawned in this test, this allows us not to double up on setup ... " />
+                <marker date="1604242863502" expanded="true" signature="2017:2106" ph="///     A generic holder for any type of int scoring ... " />
+                <marker date="1604242863502" expanded="true" signature="2155:2264" ph="///     generic holder for tracking streak, handled in base.lateUpdate() ... " />
+                <marker date="1604242863502" expanded="true" signature="2314:2395" ph="///     allows us to track time between hits ... " />
+                <marker date="1604242863502" expanded="true" signature="2454:2545" ph="///     how long the current target has been shown for ... " />
+                <marker date="1604242863502" expanded="true" signature="2603:2738" ph="///     is this timed to that we should track elapsed time and end the test when we hit a duration ... " />
+                <marker date="1604242863502" expanded="true" signature="2844:2979" ph="///     anytime there is a mouseup(0) this is set during update and then checked during lateUpdate ... " />
+                <marker date="1604242863502" expanded="true" signature="3020:3124" ph="///     The times mousedown(0) occurred, according to m_elapsedTime ... " />
+                <marker date="1604242863502" expanded="true" signature="3186:3332" ph="///     Do we want the base class to track timing between hits?  This should be off for memory and reaction.. ... " />
+                <marker date="1604242863502" expanded="true" signature="3438:3535" ph="///     How much time has elapsed since we started this test ... " />
+                <marker date="1604242863502" expanded="true" signature="3597:3665" ph="///     this this test running? ... " />
+                <marker date="1604242863502" expanded="true" signature="3812:4066" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="4072:4274" ph="///     Update is called once per frame, base updates the duration and ends the test when the time is up ... " />
+                <marker date="1604242863502" expanded="true" signature="4307:5914" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="4472:4565" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="4667:5722" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="4789:4931" ph="/* we also have to handle a manual raycast if we're in ehb mode since the bp cursor collider will ... */" />
+                <marker date="1604242863502" expanded="true" signature="5003:5712" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="5235:5698" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="5752:5879" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="5920:6184" ph="///     Late update is needed to keep track of our hit times.  This allows us to tell if the user touched the scr ... " />
+                <marker date="1604242863502" expanded="true" signature="6220:7480" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="6444:7085" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="6467:6608" ph="/* if a test is using the cursor but has hover time set to 0 just ignore this, otherwise the progress ring ... */" />
+                <marker date="1604242863502" expanded="true" signature="6746:7075" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="7487:7573" ph="///     Each test should handle this individually ... " />
+                <marker date="1604242863502" expanded="true" signature="7620:7632" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="7638:7874" ph="///     this is a special mode of the target hit method intended for BP hover test only. ... " />
+                <marker date="1604242863502" expanded="true" signature="7913:7925" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="7931:8203" ph="///     this is called when there is a touch this frame, but the active target wasn't hit this frame ... " />
+                <marker date="1604242863502" expanded="true" signature="8245:8706" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="8712:8812" ph="///     Returns the string to be shown in the test info display ... " />
+                <marker date="1604242863502" expanded="true" signature="8854:8896" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="8943:8955" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="8961:9108" ph="///     called when this test is to be started, base sets running = true and resets the elapsed time and score ... " />
+                <marker date="1604242863502" expanded="true" signature="9144:10082" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="9320:9470" ph="/* if either of these are carried over from a previous test and is still true, it can make a false miss appear, ... */" />
+                <marker date="1604242863502" expanded="true" signature="9673:9886" ph="/* todo resetting these here is fine for data purposes, but it will show the previous score and elapsed time ... */" />
+                <marker date="1604242863502" expanded="true" signature="10088:10298" ph="///     This is for tests in balance modes that need to spawn their initial target while the countdown is going o ... " />
+                <marker date="1604242863502" expanded="true" signature="10339:10351" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="10357:11117" ph="///     !!! STOP !!!This should only ever be directly called by the test manager in StopCurrentTest()!!! ... " />
+                <marker date="1604242863502" expanded="true" signature="11174:11516" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="11244:11413" ph="/* we can reset the decay of the bp cursor here for now, in case it was mid-progress when a test was stopped ... */" />
+                <marker date="1604242863502" expanded="true" signature="11522:12091" ph="///     Here we add the test summary with all of the info that test reports need.  The default call will ... " />
+                <marker date="1604242863502" expanded="true" signature="12152:16233" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="12293:12383" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="13960:14165" ph="/* doing this check allows us to see if the short score is empty or not, ... */" />
+                <marker date="1604242863502" expanded="true" signature="15027:15261" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="15476:16091" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="15694:15844" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="16239:16689" ph="///     Anything we need to do when this test is selected in the main menu, base will show the target set for thi ... " />
+                <marker date="1604242863502" expanded="true" signature="16724:17521" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="17527:17700" ph="///     Start the process of recording force plate data to our patient.  We need to have an active patient and ... " />
+                <marker date="1604242863502" expanded="true" signature="17735:18665" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="18116:18247" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="18260:18592" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="18671:18883" ph="///     Stop writing BP data, this MUST be called whenever a test is stopped for ANY reason otherwise it will kee ... " />
+                <marker date="1604242863502" expanded="true" signature="18919:19058" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="19064:19476" ph="///     Handle anything we want to when in balance mode only for the bp cursor interacting with targets ... " />
+                <marker date="1604242863502" expanded="true" signature="19531:19742" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="19748:19823" ph="///     See comment for Target_Enter() ... " />
+                <marker date="1604242863502" expanded="true" signature="19878:21499" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="20201:20599" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="20609:20877" ph="/* this should count as a target hit  if we're in balance mode only, ebh mode is handled below ... */" />
+                <marker date="1604242863502" expanded="true" signature="20921:21028" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="21052:21186" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="21323:21461" ph="/* then manually invoke the exit since the cursor won't physically exit, and the Exit() method would never ... */" />
+                <marker date="1604242863502" expanded="true" signature="21505:21580" ph="///     See comment for Target_Enter() ... " />
+                <marker date="1604242863502" expanded="true" signature="21634:21899" ph="{...}" />
+                <marker date="1604242863502" expanded="false" signature="21905:22240" ph="Special parameter-less hover events for BP target" />
+                <marker date="1604242863502" expanded="true" signature="22002:22050" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="22089:22136" ph="{...}" />
+                <marker date="1604242863502" expanded="true" signature="22176:22224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="304" column="85" lean-forward="true" selection-start-line="303" selection-start-column="8" selection-end-line="304" selection-end-column="85" />
+              <folding>
+                <marker date="1604671909002" expanded="false" signature="6:107" ph="..." />
+                <marker date="1604671909002" expanded="true" signature="139:14824" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="186:299" ph="///     the list that holds the arrows to show the targets we need to follow ... " />
+                <marker date="1604671909002" expanded="true" signature="480:600" ph="///     this lets us keep track if we've hit the right or wrong target for each set ... " />
+                <marker date="1604671909002" expanded="true" signature="644:857" ph="///     this lets us track which targets have been hit or the available sets, when they are true then we've hit a ... " />
+                <marker date="1604671909002" expanded="true" signature="901:1043" ph="///     this is the current angle of each target, so we can keep track and resume from any given rotation ... " />
+                <marker date="1604671909002" expanded="true" signature="1126:1259" ph="///     this is our array of arrays that will track our hits of each target set for each trial.. ... " />
+                <marker date="1604671909002" expanded="true" signature="1453:2505" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="2540:2659" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="2697:3259" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="3294:4049" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="3366:3459" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="3815:3976" ph="/* the parameter we pass here is if we want to do the cooldown, which we only want to do ... */" />
+                <marker date="1604671909002" expanded="true" signature="4098:6639" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="4162:4503" ph="/* when we hit a target in wait mode we need to see if it was an indicated target ... */" />
+                <marker date="1604671909002" expanded="true" signature="4530:5638" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="6698:9039" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="7010:7300" ph="/* do NOT score multi if the test is stopped with the button, the arrays used below are populated as the test ... */" />
+                <marker date="1604671909002" expanded="false" signature="7349:7744" ph="Obsolete - old scoring method" />
+                <marker date="1604671909002" expanded="true" signature="7426:7724" ph="/* m_score = 0; ... */" />
+                <marker date="1604671909002" expanded="true" signature="8557:8997" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="9083:9129" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="9192:10144" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="9222:9377" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="9691:9986" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="10178:10370" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="10212:10364" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="10409:12737" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="10424:10652" ph="/* note spin speed is theoretically limited by the refresh rate of the monitor.  If we're spinning faster than ... */" />
+                <marker date="1604671909002" expanded="true" signature="11062:11169" ph="/* determine the speed ... */" />
+                <marker date="1604671909002" expanded="true" signature="11898:12694" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="11986:12609" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="12311:12493" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="12777:14822" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="12884:13254" ph="{...}" />
+                <marker date="1604671909002" expanded="true" signature="13330:13787" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_TestOptions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="16">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1595425526527" expanded="false" signature="6:81" ph="..." />
+                <marker date="1595425526527" expanded="true" signature="141:1417" ph="{...}" />
+                <marker date="1595425526527" expanded="true" signature="250:667" ph="{...}" />
+                <marker date="1595425526527" expanded="true" signature="457:661" ph="{...}" />
+                <marker date="1595425526527" expanded="true" signature="673:1023" ph="///     Gets the given T component type in the children of the test container of the given test type. ... " />
+                <marker date="1595425526527" expanded="true" signature="1079:1415" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+              <folding>
+                <marker date="1604671628798" expanded="true" signature="51:837" ph="{...}" />
+                <marker date="1604671628798" expanded="true" signature="197:368" ph="{...}" />
+                <marker date="1604671628798" expanded="true" signature="416:603" ph="{...}" />
+                <marker date="1604671628798" expanded="true" signature="647:835" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetLayout.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-16">
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
+              <folding>
+                <marker date="1595425526580" expanded="true" signature="49:1605" ph="{...}" />
+                <marker date="1595425526580" expanded="true" signature="296:660" ph="{...}" />
+                <marker date="1595425526580" expanded="true" signature="719:960" ph="{...}" />
+                <marker date="1595425526580" expanded="true" signature="1017:1250" ph="{...}" />
+                <marker date="1595425526580" expanded="true" signature="1294:1603" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="784">
+              <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+              <folding>
+                <marker date="1595425526585" expanded="true" signature="20:369" ph="///     TestOptions_Base is a generic container to hold any given options for a test.  It handles getting/setting ... " />
+                <marker date="1595425526585" expanded="true" signature="399:2772" ph="{...}" />
+                <marker date="1595425526585" expanded="true" signature="2523:2592" ph="/* test specific, these only show up in a single test ... */" />
+                <marker date="1595425526585" expanded="true" signature="2801:3578" ph="{...}" />
+                <marker date="1595425526585" expanded="true" signature="2850:3059" ph="///     If we want a value to be displayed as something different, we can set that here ... " />
+                <marker date="1595425526585" expanded="true" signature="3197:3383" ph="{...}" />
+                <marker date="1595425526585" expanded="true" signature="3427:3499" ph="{...}" />
+                <marker date="1595425526585" expanded="true" signature="3537:3576" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddPatient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/CustomSprites.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Button_VideoButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_TestOptions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/EncryptDecrypt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/454F2973-F893-48AA-975B-66532B873929/4a/a1dbf5f1/TMP_InputField.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/TabThroughFields.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_SessionReportMaker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/LicenseKeyManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetLayout.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Options_BackgroundSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/ConstantDefinitions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Options_TargetSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Options_TargetSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_SessionReportMaker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/EncryptDecrypt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddUser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddPatient.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/ConstantDefinitions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Reaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/TabThroughFields.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/LicenseKeyManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Menu_Reports.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_PatientDetail.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/PatientTrainingSummary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Options_BackgroundSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Contrast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-17" />
+    <option name="y" value="-21" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
+  </component>
+  <component name="ProjectId" id="1icIN10p4C5wx8g1cwDA0Jo7Ku7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Program Data" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Program Data" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Program Data" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Tests" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.34994584" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.30010834" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/../Build_8_11_20/bvt2.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Users\Yo Mama\Documents\BitBucket\Build_8_11_20" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0cc2174-db07-46b3-ae71-910fe51689a4" name="Default Changelist" comment="" />
+      <created>1595426216367</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595426216367</updated>
+      <workItem from="1595426221159" duration="1170000" />
+      <workItem from="1596731951969" duration="685000" />
+      <workItem from="1597168930714" duration="323000" />
+      <workItem from="1597172431866" duration="758000" />
+      <workItem from="1597870210450" duration="4678000" />
+      <workItem from="1598018798288" duration="1452000" />
+      <workItem from="1602200437466" duration="3958000" />
+      <workItem from="1602352550403" duration="760000" />
+      <workItem from="1604160108902" duration="5011000" />
+      <workItem from="1604242230633" duration="232000" />
+      <workItem from="1604242508717" duration="524000" />
+      <workItem from="1604243437927" duration="5000" />
+      <workItem from="1604671448198" duration="459000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="518000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17643923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Unity" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="bottom" id="Unit Tests" order="13" />
+      <window_info anchor="bottom" id="Terminal" order="14" />
+      <window_info anchor="bottom" id="Event Log" order="15" side_tool="true" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.0.center" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.0.left" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.0.right" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.1.center" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.1.left" timestamp="1604242462647">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462647" />
+    <state width="1877" height="374" key="GridCell.Tab.1.right" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.2.bottom" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.2.center" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.2.left" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.2.right" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.2.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.3.bottom" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.3.center" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.3.left" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state width="1877" height="374" key="GridCell.Tab.3.right" timestamp="1604242462648">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="374" key="GridCell.Tab.3.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242462648" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1604242354250">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242354250" />
+    <state x="484" y="250" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1604242371946">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="484" y="250" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604242371946" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1604163273673">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1604163273673" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs</url>
+          <line>394</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" initialLine="394">
+            <startOffsets>
+              <option value="15499" />
+            </startOffsets>
+            <endOffsets>
+              <option value="15552" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6128">
+          <caret line="403" column="13" selection-start-line="403" selection-start-column="13" selection-end-line="403" selection-end-column="13" />
+          <folding>
+            <marker date="1604242863502" expanded="false" signature="6:131" ph="..." />
+            <marker date="1604242863502" expanded="true" signature="176:22242" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="222:314" ph="///     Event will be fired whenever a test is selected ... " />
+            <marker date="1604242863502" expanded="true" signature="376:501" ph="///     This should be set only by Target() and only if it was active and hit this frame ... " />
+            <marker date="1604242863502" expanded="true" signature="570:699" ph="///     flag to check if the balance plate cursor is currently over the active target or not ... " />
+            <marker date="1604242863502" expanded="true" signature="743:816" ph="///     the running highest streak.. ... " />
+            <marker date="1604242863502" expanded="true" signature="878:970" ph="///     If we recorded data, this is where it is stored ... " />
+            <marker date="1604242863502" expanded="true" signature="1011:1089" ph="///     stream writer for writing bp data ... " />
+            <marker date="1604242863502" expanded="true" signature="1210:1300" ph="///     how long have we been hovering over a target? ... " />
+            <marker date="1604242863502" expanded="true" signature="1365:1503" ph="///     the time since the last target was hit, when to reset this should be up to each deriving test ... " />
+            <marker date="1604242863502" expanded="true" signature="1568:1661" ph="///     generic holder for tracking misses during a test ... " />
+            <marker date="1604242863502" expanded="true" signature="1769:1968" ph="///     A flag to check if a target has been pre=spawned in this test, this allows us not to double up on setup ... " />
+            <marker date="1604242863502" expanded="true" signature="2017:2106" ph="///     A generic holder for any type of int scoring ... " />
+            <marker date="1604242863502" expanded="true" signature="2155:2264" ph="///     generic holder for tracking streak, handled in base.lateUpdate() ... " />
+            <marker date="1604242863502" expanded="true" signature="2314:2395" ph="///     allows us to track time between hits ... " />
+            <marker date="1604242863502" expanded="true" signature="2454:2545" ph="///     how long the current target has been shown for ... " />
+            <marker date="1604242863502" expanded="true" signature="2603:2738" ph="///     is this timed to that we should track elapsed time and end the test when we hit a duration ... " />
+            <marker date="1604242863502" expanded="true" signature="2844:2979" ph="///     anytime there is a mouseup(0) this is set during update and then checked during lateUpdate ... " />
+            <marker date="1604242863502" expanded="true" signature="3020:3124" ph="///     The times mousedown(0) occurred, according to m_elapsedTime ... " />
+            <marker date="1604242863502" expanded="true" signature="3186:3332" ph="///     Do we want the base class to track timing between hits?  This should be off for memory and reaction.. ... " />
+            <marker date="1604242863502" expanded="true" signature="3438:3535" ph="///     How much time has elapsed since we started this test ... " />
+            <marker date="1604242863502" expanded="true" signature="3597:3665" ph="///     this this test running? ... " />
+            <marker date="1604242863502" expanded="true" signature="3812:4066" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="4072:4274" ph="///     Update is called once per frame, base updates the duration and ends the test when the time is up ... " />
+            <marker date="1604242863502" expanded="true" signature="4307:5914" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="4472:4565" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="4667:5722" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="4789:4931" ph="/* we also have to handle a manual raycast if we're in ehb mode since the bp cursor collider will ... */" />
+            <marker date="1604242863502" expanded="true" signature="5003:5712" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="5235:5698" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="5752:5879" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="5920:6184" ph="///     Late update is needed to keep track of our hit times.  This allows us to tell if the user touched the scr ... " />
+            <marker date="1604242863502" expanded="true" signature="6220:7480" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="6444:7085" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="6467:6608" ph="/* if a test is using the cursor but has hover time set to 0 just ignore this, otherwise the progress ring ... */" />
+            <marker date="1604242863502" expanded="true" signature="6746:7075" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="7487:7573" ph="///     Each test should handle this individually ... " />
+            <marker date="1604242863502" expanded="true" signature="7620:7632" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="7638:7874" ph="///     this is a special mode of the target hit method intended for BP hover test only. ... " />
+            <marker date="1604242863502" expanded="true" signature="7913:7925" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="7931:8203" ph="///     this is called when there is a touch this frame, but the active target wasn't hit this frame ... " />
+            <marker date="1604242863502" expanded="true" signature="8245:8706" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="8712:8812" ph="///     Returns the string to be shown in the test info display ... " />
+            <marker date="1604242863502" expanded="true" signature="8854:8896" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="8943:8955" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="8961:9108" ph="///     called when this test is to be started, base sets running = true and resets the elapsed time and score ... " />
+            <marker date="1604242863502" expanded="true" signature="9144:10082" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="9320:9470" ph="/* if either of these are carried over from a previous test and is still true, it can make a false miss appear, ... */" />
+            <marker date="1604242863502" expanded="true" signature="9673:9886" ph="/* todo resetting these here is fine for data purposes, but it will show the previous score and elapsed time ... */" />
+            <marker date="1604242863502" expanded="true" signature="10088:10298" ph="///     This is for tests in balance modes that need to spawn their initial target while the countdown is going o ... " />
+            <marker date="1604242863502" expanded="true" signature="10339:10351" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="10357:11117" ph="///     !!! STOP !!!This should only ever be directly called by the test manager in StopCurrentTest()!!! ... " />
+            <marker date="1604242863502" expanded="true" signature="11174:11516" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="11244:11413" ph="/* we can reset the decay of the bp cursor here for now, in case it was mid-progress when a test was stopped ... */" />
+            <marker date="1604242863502" expanded="true" signature="11522:12091" ph="///     Here we add the test summary with all of the info that test reports need.  The default call will ... " />
+            <marker date="1604242863502" expanded="true" signature="12152:16233" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="12293:12383" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="13960:14165" ph="/* doing this check allows us to see if the short score is empty or not, ... */" />
+            <marker date="1604242863502" expanded="true" signature="15027:15261" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="15476:16091" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="15694:15844" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="16239:16689" ph="///     Anything we need to do when this test is selected in the main menu, base will show the target set for thi ... " />
+            <marker date="1604242863502" expanded="true" signature="16724:17521" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="17527:17700" ph="///     Start the process of recording force plate data to our patient.  We need to have an active patient and ... " />
+            <marker date="1604242863502" expanded="true" signature="17735:18665" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="18116:18247" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="18260:18592" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="18671:18883" ph="///     Stop writing BP data, this MUST be called whenever a test is stopped for ANY reason otherwise it will kee ... " />
+            <marker date="1604242863502" expanded="true" signature="18919:19058" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="19064:19476" ph="///     Handle anything we want to when in balance mode only for the bp cursor interacting with targets ... " />
+            <marker date="1604242863502" expanded="true" signature="19531:19742" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="19748:19823" ph="///     See comment for Target_Enter() ... " />
+            <marker date="1604242863502" expanded="true" signature="19878:21499" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="20201:20599" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="20609:20877" ph="/* this should count as a target hit  if we're in balance mode only, ebh mode is handled below ... */" />
+            <marker date="1604242863502" expanded="true" signature="20921:21028" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="21052:21186" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="21323:21461" ph="/* then manually invoke the exit since the cursor won't physically exit, and the Exit() method would never ... */" />
+            <marker date="1604242863502" expanded="true" signature="21505:21580" ph="///     See comment for Target_Enter() ... " />
+            <marker date="1604242863502" expanded="true" signature="21634:21899" ph="{...}" />
+            <marker date="1604242863502" expanded="false" signature="21905:22240" ph="Special parameter-less hover events for BP target" />
+            <marker date="1604242863502" expanded="true" signature="22002:22050" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="22089:22136" ph="{...}" />
+            <marker date="1604242863502" expanded="true" signature="22176:22224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_TestOptions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1595425526527" expanded="false" signature="6:81" ph="..." />
+            <marker date="1595425526527" expanded="true" signature="141:1417" ph="{...}" />
+            <marker date="1595425526527" expanded="true" signature="250:667" ph="{...}" />
+            <marker date="1595425526527" expanded="true" signature="457:661" ph="{...}" />
+            <marker date="1595425526527" expanded="true" signature="673:1023" ph="///     Gets the given T component type in the children of the test container of the given test type. ... " />
+            <marker date="1595425526527" expanded="true" signature="1079:1415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetLayout.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-16">
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1595425526580" expanded="true" signature="49:1605" ph="{...}" />
+            <marker date="1595425526580" expanded="true" signature="296:660" ph="{...}" />
+            <marker date="1595425526580" expanded="true" signature="719:960" ph="{...}" />
+            <marker date="1595425526580" expanded="true" signature="1017:1250" ph="{...}" />
+            <marker date="1595425526580" expanded="true" signature="1294:1603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="784">
+          <caret line="50" column="29" selection-start-line="50" selection-start-column="29" selection-end-line="50" selection-end-column="29" />
+          <folding>
+            <marker date="1595425526585" expanded="true" signature="20:369" ph="///     TestOptions_Base is a generic container to hold any given options for a test.  It handles getting/setting ... " />
+            <marker date="1595425526585" expanded="true" signature="399:2772" ph="{...}" />
+            <marker date="1595425526585" expanded="true" signature="2523:2592" ph="/* test specific, these only show up in a single test ... */" />
+            <marker date="1595425526585" expanded="true" signature="2801:3578" ph="{...}" />
+            <marker date="1595425526585" expanded="true" signature="2850:3059" ph="///     If we want a value to be displayed as something different, we can set that here ... " />
+            <marker date="1595425526585" expanded="true" signature="3197:3383" ph="{...}" />
+            <marker date="1595425526585" expanded="true" signature="3427:3499" ph="{...}" />
+            <marker date="1595425526585" expanded="true" signature="3537:3576" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+          <folding>
+            <marker date="1604671628798" expanded="true" signature="51:837" ph="{...}" />
+            <marker date="1604671628798" expanded="true" signature="197:368" ph="{...}" />
+            <marker date="1604671628798" expanded="true" signature="416:603" ph="{...}" />
+            <marker date="1604671628798" expanded="true" signature="647:835" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="304" column="85" lean-forward="true" selection-start-line="303" selection-start-column="8" selection-end-line="304" selection-end-column="85" />
+          <folding>
+            <marker date="1604671909002" expanded="false" signature="6:107" ph="..." />
+            <marker date="1604671909002" expanded="true" signature="139:14824" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="186:299" ph="///     the list that holds the arrows to show the targets we need to follow ... " />
+            <marker date="1604671909002" expanded="true" signature="480:600" ph="///     this lets us keep track if we've hit the right or wrong target for each set ... " />
+            <marker date="1604671909002" expanded="true" signature="644:857" ph="///     this lets us track which targets have been hit or the available sets, when they are true then we've hit a ... " />
+            <marker date="1604671909002" expanded="true" signature="901:1043" ph="///     this is the current angle of each target, so we can keep track and resume from any given rotation ... " />
+            <marker date="1604671909002" expanded="true" signature="1126:1259" ph="///     this is our array of arrays that will track our hits of each target set for each trial.. ... " />
+            <marker date="1604671909002" expanded="true" signature="1453:2505" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="2540:2659" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="2697:3259" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="3294:4049" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="3366:3459" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="3815:3976" ph="/* the parameter we pass here is if we want to do the cooldown, which we only want to do ... */" />
+            <marker date="1604671909002" expanded="true" signature="4098:6639" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="4162:4503" ph="/* when we hit a target in wait mode we need to see if it was an indicated target ... */" />
+            <marker date="1604671909002" expanded="true" signature="4530:5638" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="6698:9039" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="7010:7300" ph="/* do NOT score multi if the test is stopped with the button, the arrays used below are populated as the test ... */" />
+            <marker date="1604671909002" expanded="false" signature="7349:7744" ph="Obsolete - old scoring method" />
+            <marker date="1604671909002" expanded="true" signature="7426:7724" ph="/* m_score = 0; ... */" />
+            <marker date="1604671909002" expanded="true" signature="8557:8997" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="9083:9129" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="9192:10144" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="9222:9377" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="9691:9986" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="10178:10370" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="10212:10364" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="10409:12737" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="10424:10652" ph="/* note spin speed is theoretically limited by the refresh rate of the monitor.  If we're spinning faster than ... */" />
+            <marker date="1604671909002" expanded="true" signature="11062:11169" ph="/* determine the speed ... */" />
+            <marker date="1604671909002" expanded="true" signature="11898:12694" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="11986:12609" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="12311:12493" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="12777:14822" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="12884:13254" ph="{...}" />
+            <marker date="1604671909002" expanded="true" signature="13330:13787" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,1989 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0f555d85-dd8e-44a0-acf2-65117be1e50e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BVT/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scenes/MainScene_DarkUI.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scenes/MainScene_DarkUI.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BVT" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="150" column="32" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
+              <folding>
+                <marker date="1569006537650" expanded="true" signature="6:183" ph="..." />
+                <marker date="1569006537650" expanded="true" signature="248:9393" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="628:793" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="861:1235" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="1265:1291" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="1321:1505" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="1536:1604" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="1636:1671" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="1703:5458" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="4052:4203" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="4363:5006" ph="/* this works fine in the editor but won't work in a build since the paths don't stay this way.. ... */" />
+                <marker date="1569006537650" expanded="true" signature="5049:5185" ph="/* page1.newAddImage(tex.EncodeToJPG(), 0, image_yPos, 64, 64); ... */" />
+                <marker date="1569006537650" expanded="true" signature="5523:5696" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="5723:5768" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="5815:9391" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="5858:9385" ph="{...}" />
+                <marker date="1569006537650" expanded="true" signature="7634:7806" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+              <folding>
+                <marker date="1569005356782" expanded="true" signature="6:67" ph="..." />
+                <marker date="1569005356782" expanded="true" signature="110:2131" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="527:564" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="611:1171" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1205:1369" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1394:1434" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1459:1492" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1530:1594" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1627:1696" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1741:1808" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1843:1906" ph="{...}" />
+                <marker date="1569005356782" expanded="true" signature="1947:2129" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_Scoreboard.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+              <folding>
+                <marker date="1554765468284" expanded="false" signature="6:87" ph="..." />
+                <marker date="1554765468284" expanded="true" signature="134:533" ph="{...}" />
+                <marker date="1554765468284" expanded="true" signature="372:431" ph="{...}" />
+                <marker date="1554765468284" expanded="true" signature="460:531" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Menu_Reports.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1554765468385" expanded="false" signature="6:141" ph="..." />
+                <marker date="1554765468385" expanded="true" signature="184:4232" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="526:629" ph="/// a list of all of the strings currently shown in the scoreboard ... " />
+                <marker date="1554765468385" expanded="true" signature="728:765" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="812:1154" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="1193:1311" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="1343:1509" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="1545:1682" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="1730:1778" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="1784:2071" ph="/// Add an entry to the scoreboard using the new method with a predetermined entry and its necessary ... " />
+                <marker date="1554765468385" expanded="true" signature="2120:3183" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="2293:2451" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="3229:4230" ph="{...}" />
+                <marker date="1554765468385" expanded="true" signature="3257:4224" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientDisplay.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-165">
+              <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+              <folding>
+                <marker date="1569004517991" expanded="false" signature="6:142" ph="..." />
+                <marker date="1569004517991" expanded="true" signature="197:1071" ph="{...}" />
+                <marker date="1569004517991" expanded="true" signature="330:355" ph="{...}" />
+                <marker date="1569004517991" expanded="true" signature="404:542" ph="{...}" />
+                <marker date="1569004517991" expanded="true" signature="570:878" ph="{...}" />
+                <marker date="1569004517991" expanded="true" signature="914:1003" ph="{...}" />
+                <marker date="1569004517991" expanded="true" signature="1033:1069" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4950">
+              <caret line="363" column="54" selection-start-line="363" selection-start-column="54" selection-end-line="363" selection-end-column="54" />
+              <folding>
+                <marker date="1569004518008" expanded="false" signature="6:182" ph="..." />
+                <marker date="1569004518008" expanded="true" signature="227:19367" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="266:348" ph="/// Event will be fired whenever a test is selected ... " />
+                <marker date="1569004518008" expanded="true" signature="530:619" ph="/// generic holder for tracking misses during a test ... " />
+                <marker date="1569004518008" expanded="true" signature="668:761" ph="/// How much time has elapsed since we started this test ... " />
+                <marker date="1569004518008" expanded="true" signature="820:878" ph="/// this this test running? ... " />
+                <marker date="1569004518008" expanded="true" signature="947:1341" ph="/* the duration, in seconds, of this test ... */" />
+                <marker date="1569004518008" expanded="true" signature="1347:1432" ph="/// A generic holder for any type of int scoring ... " />
+                <marker date="1569004518008" expanded="true" signature="1480:1549" ph="/// the running highest streak.. ... " />
+                <marker date="1569004518008" expanded="true" signature="1609:1714" ph="/// generic holder for tracking streak, handled in base.lateUpdate() ... " />
+                <marker date="1569004518008" expanded="true" signature="1763:1840" ph="/// allows us to track time between hits ... " />
+                <marker date="1569004518008" expanded="true" signature="1898:2032" ph="/// the time since the last target was hit, when to reset this should be up to each deriving test ... " />
+                <marker date="1569004518008" expanded="true" signature="2096:2227" ph="/// anytime there is a mouseup(0) this is set during update and then checked during lateUpdate ... " />
+                <marker date="1569004518008" expanded="true" signature="2268:2389" ph="/// This should be set only by Target() and only if it was active and hit this frame ... " />
+                <marker date="1569004518008" expanded="true" signature="2461:2603" ph="/// Do we want the base class to track timing between hits?  This should be off for memory and reaction.. ... " />
+                <marker date="1569004518008" expanded="true" signature="2660:2791" ph="/// is this timed to that we should track elapsed time and end the test when we hit a duration ... " />
+                <marker date="1569004518008" expanded="true" signature="2844:2925" ph="/// how long the current target has been shown for ... " />
+                <marker date="1569004518008" expanded="true" signature="2976:3070" ph="/// The times mousedown(0) occurred, according to m_elapsedTime ... " />
+                <marker date="1569004518008" expanded="true" signature="3126:3194" ph="/// stream writer for writing bp data ... " />
+                <marker date="1569004518008" expanded="true" signature="3233:3315" ph="/// If we recorded data, this is where it is stored ... " />
+                <marker date="1569004518008" expanded="true" signature="3350:3430" ph="/// how long have we been hovering over a target? ... " />
+                <marker date="1569004518008" expanded="true" signature="3488:3607" ph="/// flag to check if the balance plate cursor is currently over the active target or not ... " />
+                <marker date="1569004518008" expanded="true" signature="3645:3827" ph="/// A flag to check if a target has been pre=spawned in this test, this allows us not to double up on setup ... " />
+                <marker date="1569004518008" expanded="true" signature="3939:4052" ph="/* public bool m_defaultIsVideo; ... */" />
+                <marker date="1569004518008" expanded="true" signature="4156:4380" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="4384:4569" ph="/// Update is called once per frame, base updates the duration and ends the test when the time is up ... " />
+                <marker date="1569004518008" expanded="true" signature="4599:5873" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="4743:4806" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="4903:5726" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="4995:5128" ph="/* we also have to handle a manual raycast if we're in ehb mode since the bp cursor collider will ... */" />
+                <marker date="1569004518008" expanded="true" signature="5191:5722" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="5342:5717" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="5386:5711" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="5750:5847" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="5876:6123" ph="/// Late update is needed to keep track of our hit times.  This allows us to tell if the user touched the screen  ... " />
+                <marker date="1569004518008" expanded="true" signature="6159:7393" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="6391:6983" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="6411:6549" ph="/* if a test is using the cursor but has hover time set to 0 just ignore this, otherwise the progress ring ... */" />
+                <marker date="1569004518008" expanded="true" signature="6680:6973" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="7398:7474" ph="/// Each test should handle this individually ... " />
+                <marker date="1569004518008" expanded="true" signature="7518:7526" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="7529:7748" ph="/// this is a special mode of the target hit method intended for BP hover test only. ... " />
+                <marker date="1569004518008" expanded="true" signature="7784:7793" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="7796:8044" ph="/// this is called when there is a touch this frame, but the active target wasn't hit this frame ... " />
+                <marker date="1569004518008" expanded="true" signature="8083:8492" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="8495:8585" ph="/// Returns the string to be shown in the test info display ... " />
+                <marker date="1569004518008" expanded="true" signature="8624:8654" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="8698:8707" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="8710:8847" ph="/// called when this test is to be started, base sets running = true and resets the elapsed time and score ... " />
+                <marker date="1569004518008" expanded="true" signature="8880:9722" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="9029:9179" ph="/* if either of these are carried over from a previous test and is still true, it can make a false miss appear, ... */" />
+                <marker date="1569004518008" expanded="true" signature="9352:9559" ph="/* todo resetting these here is fine for data purposes, but it will show the previous score and elapsed time ... */" />
+                <marker date="1569004518008" expanded="true" signature="9725:9909" ph="/// This is for tests in balance modes that need to spawn their initial target while the countdown is going on, b ... " />
+                <marker date="1569004518008" expanded="true" signature="9947:9956" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="9959:10571" ph="/// anything we need to do when this test is stopped, base will set running=false.  This should ONLY ever be  ... " />
+                <marker date="1569004518008" expanded="true" signature="10625:10925" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="10674:10837" ph="/* we can reset the decay of the bp cursor here for now, in case it was mid-progress when a test was stopped ... */" />
+                <marker date="1569004518008" expanded="true" signature="10928:11464" ph="/// Here we add the test summary with all of the info that test reports need.  The default call will ... " />
+                <marker date="1569004518008" expanded="true" signature="11519:14106" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="12843:13037" ph="/* doing this check allows us to see if the short score is emptry or not, ... */" />
+                <marker date="1569004518008" expanded="true" signature="13814:14009" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="14109:14516" ph="/// Anything we need to do when this test is selected in the main menu, base will show the target set for this ty ... " />
+                <marker date="1569004518008" expanded="true" signature="14548:15270" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="15273:15429" ph="/// Start the process of recording force plate data to our patient.  We need to have an active patient and ... " />
+                <marker date="1569004518008" expanded="true" signature="15461:16251" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="15915:16187" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="16254:16449" ph="/// Stop writing BP data, this MUST be called whenever a test is stopped for ANY reason otherwise it will keep ... " />
+                <marker date="1569004518008" expanded="true" signature="16482:16605" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="16612:16993" ph="/// Handle anything we want to when in balance mode only for the bp cursor interacting with targets ... " />
+                <marker date="1569004518008" expanded="true" signature="17045:17225" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="17228:17293" ph="/// See comment for Target_Enter() ... " />
+                <marker date="1569004518008" expanded="true" signature="17345:18727" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="17633:17965" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="17969:18225" ph="/* this should count as a target hit  if we're in balance mode only, ebh mode is handled below ... */" />
+                <marker date="1569004518008" expanded="true" signature="18263:18328" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="18346:18450" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="18566:18698" ph="/* then manually invoke the exit since the cursor won't physically exit, and the Exit() method would never ... */" />
+                <marker date="1569004518008" expanded="true" signature="18731:18796" ph="/// See comment for Target_Enter() ... " />
+                <marker date="1569004518008" expanded="true" signature="18847:19077" ph="{...}" />
+                <marker date="1569004518008" expanded="false" signature="19080:19365" ph="Special parameter-less hover events for BP target" />
+                <marker date="1569004518008" expanded="true" signature="19173:19209" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="19245:19280" ph="{...}" />
+                <marker date="1569004518008" expanded="true" signature="19317:19353" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientTrainingSummary.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="990">
+              <caret line="72" selection-start-line="72" selection-end-line="72" />
+              <folding>
+                <marker date="1569004518000" expanded="false" signature="6:109" ph="..." />
+                <marker date="1569004518000" expanded="true" signature="111:284" ph="/// this is a generic container to hold all test data for a training that can be used to create the training suma ... " />
+                <marker date="1569004518000" expanded="true" signature="342:4725" ph="{...}" />
+                <marker date="1569004518000" expanded="true" signature="2811:4723" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Speed.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1935">
+              <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+              <folding>
+                <marker date="1564337315926" expanded="false" signature="6:114" ph="..." />
+                <marker date="1564337315926" expanded="true" signature="146:4813" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="190:266" ph="/// the index of the last target we activated ... " />
+                <marker date="1564337315926" expanded="true" signature="298:670" ph="/* [BoxGroup(&quot;Test Specific Settings&quot;)] public int m_duration_default, ... */" />
+                <marker date="1564337315926" expanded="true" signature="739:2362" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="1701:1963" ph="/* m_last_duration = m_duration_default; ... */" />
+                <marker date="1564337315926" expanded="true" signature="2396:2738" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="2420:2735" ph="/* m_testOptions.InvokeButton_Duration(m_last_duration); ... */" />
+                <marker date="1564337315926" expanded="true" signature="2770:3188" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="3228:3293" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="3328:3543" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="3589:4176" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="3799:3836" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="3842:3985" ph="/* we hit a correct target, so add to the score and make a new target ... */" />
+                <marker date="1564337315926" expanded="true" signature="4232:4367" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="4408:4542" ph="{...}" />
+                <marker date="1564337315926" expanded="true" signature="4580:4811" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_UserLogin.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+              <folding>
+                <marker date="1568565162914" expanded="false" signature="6:113" ph="..." />
+                <marker date="1568565162914" expanded="true" signature="160:1520" ph="{...}" />
+                <marker date="1568565162914" expanded="true" signature="475:700" ph="{...}" />
+                <marker date="1568565162914" expanded="true" signature="733:936" ph="{...}" />
+                <marker date="1568565162914" expanded="true" signature="976:1077" ph="{...}" />
+                <marker date="1568565162914" expanded="true" signature="1113:1518" ph="{...}" />
+                <marker date="1568565162914" expanded="true" signature="1295:1388" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>trial</find>
+      <find>d</find>
+      <find>demo</find>
+      <find>setpace</find>
+      <find>testoptions</find>
+      <find>m_testoptions</find>
+      <find>m_test</find>
+      <find>bannerUpdateRate</find>
+      <find>activate</find>
+      <find>keycode.r</find>
+      <find>rotate</find>
+      <find>full</find>
+      <find>global</find>
+      <find>ray</find>
+      <find>within</find>
+      <find>score</find>
+      <find>xml</find>
+      <find>oversize</find>
+      <find>selected</find>
+      <find>oversi</find>
+      <find>direction</find>
+      <find>balance</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\Yo Mama\Documents\BitBucket\BVT\Assets\Program Data\Scripts</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/SettingsProfile_GlobalSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_PatientDetail.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_DeleteEntryConfirmation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/BP_HoverTarget.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_BalancePlate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Patient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Heathen Engineering/SystemsUIX/Framework/On Screen Keyboard/Keyboard Prototypes/Basic Keyboard (AZERTY).prefab" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_FocusedZone.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Fullscreen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Graphs/Graph_Xaxis_Bar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_NoGoFrequency.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Graphs/Graph_HitTimes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/Sirenix/Demos/Odin Inspector/Scripts/Attribute Examples/ValueDropdownExamples.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_Orientation.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/UserAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Memory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Reaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_GoNoGo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Testing/Testing_DataPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Banner_StartSummary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Rhythm.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Patient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetScale.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_SummaryGraphs.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_GridSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Demo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Audio.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Base.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Contrast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Speed_Peri.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Reaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetSets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/Summary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_OversizeTargets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Contrast.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TrialCount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_StartingLevel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Flash.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_UserLogin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Speed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_HoverTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptionContainer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_ProgressDecay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Button_ImageButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/BalancePlateCursor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_InputMode.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples/Scripts/Benchmark01.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TouchSensitivity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_Pace.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples/Scripts/Benchmark01_UGUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_PaceTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BertecDevices/ParseCommandLine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddPatient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Menu_Reports.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/BertecDevices/ForcePlate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/DataExporter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Options_TargetSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Button_VideoButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Options_BackgroundSelect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_Patient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Menu_Main.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_Scoreboard.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/InfoPopup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientDisplay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_PatternDifficulty.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/BalancePlate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_BlendRate.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AdminUserWarning.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_DisplayTime.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Test.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Display_TestInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/CustomSprites.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Target.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/MailSender.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ChangePassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/ConstantDefinitions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Target_BPCursorHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Targets.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_Duration.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetSize.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ConfirmUserDelete.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_UserAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_InfoButtons.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Peripheral.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientTrainingSummary.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RotationSpeed.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_AudioFeedback.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_RecordData.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/_Heathen Engineering/SystemsUIX/Framework/On Screen Keyboard/KeyboardKey.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/ButtonGroup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_Countdown.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetLayout.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Testing/Testing_TargetTriggering.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_FocusedZone.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/BalancePlate.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/InactivityManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Manager_Inactivity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Inactivity.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_InfoButtons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/EncryptDecrypt.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/UserAccount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Display_TestInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_GoNoGo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Target.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Targets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Flash.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Memory.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Rhythm.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_AudioFeedback.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Speed.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Peripheral.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/BP_HoverTarget.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_OversizeTargets.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Contrast.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Reaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Reaction.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Options_BackgroundSelect.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Button_VideoButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_SummaryGraphs.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Graphs/Graph_Xaxis_Bar.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/CustomSprites.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Patient.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/ConstantDefinitions.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AdminUserWarning.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ConfirmUserDelete.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_UserAccount.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddUser.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ChangePassword.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Window_UserLogin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/PatientTrainingSummary.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/PatientDisplay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/TextureScale.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs" />
+        <option value="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-16" />
+    <option name="width" value="1934" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Program Data" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="8711f2a6:AssetsRoot" />
+              <item name="Program Data" type="1045f7f1:UnityExplorerNode" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="10100">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="10100" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+    </list>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f555d85-dd8e-44a0-acf2-65117be1e50e" name="Default Changelist" comment="" />
+      <created>1554847570454</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554847570454</updated>
+      <workItem from="1554847573612" duration="4254000" />
+      <workItem from="1555260396006" duration="2170000" />
+      <workItem from="1555365391258" duration="5307000" />
+      <workItem from="1555536431024" duration="4444000" />
+      <workItem from="1556030276578" duration="1432000" />
+      <workItem from="1556058935881" duration="5065000" />
+      <workItem from="1556236269600" duration="513000" />
+      <workItem from="1556238869935" duration="598000" />
+      <workItem from="1556284285112" duration="9564000" />
+      <workItem from="1556545522161" duration="4469000" />
+      <workItem from="1556559056000" duration="7964000" />
+      <workItem from="1556630580337" duration="7681000" />
+      <workItem from="1556716186045" duration="9443000" />
+      <workItem from="1556736574756" duration="3268000" />
+      <workItem from="1556806955780" duration="698000" />
+      <workItem from="1556809044385" duration="3039000" />
+      <workItem from="1557420845519" duration="2915000" />
+      <workItem from="1557758946294" duration="4204000" />
+      <workItem from="1557841464479" duration="2657000" />
+      <workItem from="1557945779874" duration="618000" />
+      <workItem from="1558705804317" duration="3833000" />
+      <workItem from="1558995690623" duration="5025000" />
+      <workItem from="1559081406356" duration="5114000" />
+      <workItem from="1559259494380" duration="784000" />
+      <workItem from="1559488444362" duration="7230000" />
+      <workItem from="1559574984740" duration="4397000" />
+      <workItem from="1559603069754" duration="4893000" />
+      <workItem from="1559655697893" duration="1779000" />
+      <workItem from="1559840885400" duration="873000" />
+      <workItem from="1559842785051" duration="2782000" />
+      <workItem from="1560023847292" duration="2228000" />
+      <workItem from="1560177345221" duration="6468000" />
+      <workItem from="1560528394348" duration="4719000" />
+      <workItem from="1560791038722" duration="3952000" />
+      <workItem from="1560814463259" duration="3628000" />
+      <workItem from="1561070292108" duration="4715000" />
+      <workItem from="1561130405236" duration="2263000" />
+      <workItem from="1561220658304" duration="2587000" />
+      <workItem from="1561310248503" duration="6968000" />
+      <workItem from="1561386668876" duration="7647000" />
+      <workItem from="1561469795652" duration="4213000" />
+      <workItem from="1561485119348" duration="2484000" />
+      <workItem from="1561563210149" duration="1845000" />
+      <workItem from="1561572065877" duration="606000" />
+      <workItem from="1561645425789" duration="634000" />
+      <workItem from="1563115688558" duration="2631000" />
+      <workItem from="1563305525657" duration="1748000" />
+      <workItem from="1563462186840" duration="1774000" />
+      <workItem from="1563495450490" duration="1949000" />
+      <workItem from="1563544179098" duration="2463000" />
+      <workItem from="1563632130228" duration="2127000" />
+      <workItem from="1563731371534" duration="2173000" />
+      <workItem from="1563820511250" duration="2478000" />
+      <workItem from="1563823904688" duration="1993000" />
+      <workItem from="1563906581418" duration="3311000" />
+      <workItem from="1563915824282" duration="2447000" />
+      <workItem from="1564009565328" duration="3294000" />
+      <workItem from="1564067106211" duration="4594000" />
+      <workItem from="1564258408496" duration="5304000" />
+      <workItem from="1564333467626" duration="5347000" />
+      <workItem from="1564520658966" duration="4412000" />
+      <workItem from="1567453997873" duration="3397000" />
+      <workItem from="1567973230523" duration="8205000" />
+      <workItem from="1568050944239" duration="1830000" />
+      <workItem from="1568138907876" duration="4985000" />
+      <workItem from="1568220696611" duration="1862000" />
+      <workItem from="1568735360336" duration="7516000" />
+      <workItem from="1569004937166" duration="130000" />
+      <workItem from="1569005086141" duration="2271000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="250211000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.663113" visible="true" weight="0.18230277" />
+      <window_info id="Structure" order="1" sideWeight="0.336887" side_tool="true" visible="true" weight="0.18230277" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Build" weight="0.32942432" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32409382" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32942432" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3895411" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Performance Profiler" order="15" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="IL Viewer" order="7" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Fullscreen.cs</url>
+          <line>55</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Fullscreen.cs" initialLine="53">
+            <startOffsets>
+              <option value="1705" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1729" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/BalancePlate.cs</url>
+          <line>259</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/BalancePlate.cs" initialLine="268">
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs</url>
+          <line>210</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" initialLine="220">
+            <startOffsets>
+              <option value="8290" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8300" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs</url>
+          <line>235</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" initialLine="245">
+            <startOffsets>
+              <option value="9513" />
+            </startOffsets>
+            <endOffsets>
+              <option value="9538" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs</url>
+          <line>216</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Multi.cs" initialLine="226">
+            <startOffsets>
+              <option value="8509" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8605" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Targets.cs</url>
+          <line>568</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Targets.cs" initialLine="568">
+            <startOffsets>
+              <option value="22339" />
+            </startOffsets>
+            <endOffsets>
+              <option value="22398" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Target.cs</url>
+          <line>94</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Target.cs" initialLine="94">
+            <startOffsets>
+              <option value="3317" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3408" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs</url>
+          <line>186</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" initialLine="186">
+            <startOffsets>
+              <option value="5612" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5665" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs</url>
+          <line>181</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs" initialLine="181">
+            <startOffsets>
+              <option value="5354" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5386" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_OversizeTargets.cs</url>
+          <line>27</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_OversizeTargets.cs" initialLine="25">
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs</url>
+          <line>201</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" initialLine="199">
+            <startOffsets>
+              <option value="7939" />
+            </startOffsets>
+            <endOffsets>
+              <option value="8017" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs</url>
+          <line>108</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs" initialLine="105">
+            <startOffsets>
+              <option value="3243" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3302" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs</url>
+          <line>63</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" initialLine="58">
+            <startOffsets>
+              <option value="1983" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2013" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs</url>
+          <line>140</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs" initialLine="78">
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs</url>
+          <line>199</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs" initialLine="197">
+            <startOffsets>
+              <option value="7788" />
+            </startOffsets>
+            <endOffsets>
+              <option value="7877" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs</url>
+          <line>13</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs" initialLine="11">
+            <startOffsets>
+              <option value="347" />
+            </startOffsets>
+            <endOffsets>
+              <option value="360" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs" initialLine="24">
+            <startOffsets>
+              <option value="726" />
+            </startOffsets>
+            <endOffsets>
+              <option value="760" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs" initialLine="14">
+            <startOffsets>
+              <option value="499" />
+            </startOffsets>
+            <endOffsets>
+              <option value="536" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs</url>
+          <line>35</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs" initialLine="35">
+            <startOffsets>
+              <option value="1101" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1102" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs</url>
+          <line>29</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs" initialLine="29">
+            <startOffsets>
+              <option value="839" />
+            </startOffsets>
+            <endOffsets>
+              <option value="861" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs</url>
+          <line>111</line>
+          <properties documentPath="$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs" initialLine="105">
+            <startOffsets>
+              <option value="3458" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3480" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Banner_StartSummary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1560292717764" expanded="false" signature="6:134" ph="..." />
+            <marker date="1560292717764" expanded="true" signature="184:13136" ph="{...}" />
+            <marker date="1560292717764" expanded="true" signature="240:441" ph="/// How often do we update the lower summary banner?  This is easier than having every single option trigger ... " />
+            <marker date="1560292717764" expanded="true" signature="499:597" ph="/// Array holding all of the text fields we have to work with ... " />
+            <marker date="1560292717764" expanded="true" signature="699:1179" ph="{...}" />
+            <marker date="1560292717764" expanded="true" signature="878:1029" ph="{...}" />
+            <marker date="1560292717764" expanded="true" signature="1216:13134" ph="{...}" />
+            <marker date="1560292717764" expanded="true" signature="1290:1404" ph="/* we have 15 fields to work with ... */" />
+            <marker date="1560292717764" expanded="true" signature="1909:13128" ph="{...}" />
+            <marker date="1560292717764" expanded="true" signature="7029:7154" ph="/* we normally start on [3], but we can just overwrite it since this is the only test that ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_OversizeTargets.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Targets.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9">
+          <caret line="279" column="8" selection-start-line="279" selection-start-column="8" selection-end-line="279" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetScale.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-76">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1560292717906" expanded="false" signature="6:100" ph="..." />
+            <marker date="1560292717906" expanded="true" signature="150:2546" ph="{...}" />
+            <marker date="1560292717906" expanded="true" signature="459:948" ph="{...}" />
+            <marker date="1560292717906" expanded="true" signature="1007:1358" ph="{...}" />
+            <marker date="1560292717906" expanded="true" signature="1419:1794" ph="{...}" />
+            <marker date="1560292717906" expanded="true" signature="1839:2051" ph="{...}" />
+            <marker date="1560292717906" expanded="true" signature="2095:2544" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Contrast.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3615">
+          <caret line="256" column="30" selection-start-line="256" selection-start-column="30" selection-end-line="256" selection-end-column="30" />
+          <folding>
+            <marker date="1564522648868" expanded="false" signature="6:114" ph="..." />
+            <marker date="1564522648868" expanded="true" signature="149:13011" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="904:1090" ph="/// The radius of the focus zone with respect to its scale, this tells us how far from the origin we can move ... " />
+            <marker date="1564522648868" expanded="true" signature="1341:4155" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="2982:3465" ph="/* these are the logarithmic functions that determine our blend percentages ... */" />
+            <marker date="1564522648868" expanded="true" signature="3545:4149" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="3611:4139" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="4161:4301" ph="/// Contrast is an annoying test in that it is the only once that uses unique backgrounds and targets.. ... " />
+            <marker date="1564522648868" expanded="true" signature="4337:5938" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="4395:5928" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="5985:7126" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="6391:6449" ph="/* handle our scaling here ... */" />
+            <marker date="1564522648868" expanded="true" signature="6510:6844" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="6533:6586" ph="/* we're in focused mode ... */" />
+            <marker date="1564522648868" expanded="true" signature="7174:7478" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="7484:7696" ph="/// set the rgb of the contrast target to the value in the index according to m_currentContrastStep ... " />
+            <marker date="1564522648868" expanded="true" signature="7734:8258" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="8293:8724" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="8768:8920" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="8981:9374" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="9439:9993" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="10033:10784" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="10508:10778" ph="/* m_testOptions.m_buttonGroup_blendSpeed.m_list_buttons[m_last_blendSpeed].onClick.Invoke(); ... */" />
+            <marker date="1564522648868" expanded="true" signature="10833:11303" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="11362:12537" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="12588:13009" ph="{...}" />
+            <marker date="1564522648868" expanded="true" signature="12693:12911" ph="/* there are only 50 contrast steps, so if we somehow get more hits than ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Reaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6060">
+          <caret line="427" column="8" selection-start-line="427" selection-start-column="8" selection-end-line="427" selection-end-column="8" />
+          <folding>
+            <marker date="1564523264996" expanded="false" signature="6:185" ph="..." />
+            <marker date="1564523264996" expanded="true" signature="204:884" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="211:343" ph="/// basically stage 0, waiting for the user to press on the initial target to initiate the test ... " />
+            <marker date="1564523264996" expanded="true" signature="376:515" ph="/// in self pacing, waiting for the user to lift from the inital target and begin moving to the second ... " />
+            <marker date="1564523264996" expanded="true" signature="545:671" ph="/// after the user lifts from the initial target, waiting for the second target to be hit ... " />
+            <marker date="1564523264996" expanded="true" signature="703:849" ph="/// auto, after the initial press, waiting for the cue to lift from the intialy target and move to the second ... " />
+            <marker date="1564523264996" expanded="true" signature="919:17256" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="1100:1196" ph="/// This is the next target we're expecting the user to hit ... " />
+            <marker date="1564523264996" expanded="true" signature="1245:1377" ph="/// The time it takes for the user to lift from the initial target to down on the second target ... " />
+            <marker date="1564523264996" expanded="true" signature="1428:1560" ph="/// the time it takes for the user to lift from the initial target after the cue in auto pacing ... " />
+            <marker date="1564523264996" expanded="true" signature="1605:1725" ph="/// bool to check if this test was completed sucessfully, if not, we won't score it ... " />
+            <marker date="1564523264996" expanded="true" signature="1757:1945" ph="/// how much time has passed since we started waiting for cue to now, when this equals our interval time, we can  ... " />
+            <marker date="1564523264996" expanded="true" signature="1978:2151" ph="/// should we be adding to the cue timing? this should only be tracked after the cue occurs, but before the lift  ... " />
+            <marker date="1564523264996" expanded="true" signature="2195:2471" ph="/// this causes the auto timing to pause and should only be true when the auto time is accumulating, but the bala ... " />
+            <marker date="1564523264996" expanded="true" signature="2554:2848" ph="/* public TestOptions_Reaction m_testOptions; ... */" />
+            <marker date="1564523264996" expanded="true" signature="2887:4784" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="3983:4183" ph="/* m_last_orientation = m_orientation_default; ... */" />
+            <marker date="1564523264996" expanded="true" signature="4819:5858" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="4885:5721" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="5251:5674" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="5895:6195" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="6237:8324" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="6301:6734" ph="/* todo this should probably be handled in the target scale option going forward.. ... */" />
+            <marker date="1564523264996" expanded="true" signature="6902:7427" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="8361:8429" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="8477:8960" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="9009:10447" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="9261:10441" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="9505:9747" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="9768:9902" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="10484:11644" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="10602:11638" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="11032:11191" ph="/* this only matters if we're in an auto pace, getting here tracks the time after cue to this lift, which is the ... */" />
+            <marker date="1564523264996" expanded="true" signature="11683:13209" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="11927:13203" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="12211:12408" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="12429:12563" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="13215:13328" ph="/// Sets nextTargetToHit to the opposite target depending on the orientation ... " />
+            <marker date="1564523264996" expanded="true" signature="13366:14222" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="13426:14216" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="14282:15430" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="15474:15541" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="15699:16760" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="16002:16400" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="16582:16754" ph="/* then manually invoke the exit since the cursor won't physically exit, and the Exit() method would never ... */" />
+            <marker date="1564523264996" expanded="true" signature="16817:16967" ph="{...}" />
+            <marker date="1564523264996" expanded="true" signature="17023:17254" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_PatientDetail.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1305">
+          <caret line="100" column="25" selection-start-line="95" selection-start-column="8" selection-end-line="100" selection-end-column="25" />
+          <folding>
+            <marker date="1561075600952" expanded="false" signature="6:165" ph="..." />
+            <marker date="1561075600952" expanded="true" signature="180:230" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="291:6845" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="1043:1697" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="1747:1773" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="1835:3868" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="2489:2624" ph="/* we need to populate the training summary area with the tests for this patient ... */" />
+            <marker date="1561075600952" expanded="true" signature="2718:2828" ph="/* now make an entry for every test in this patient directory ... */" />
+            <marker date="1561075600952" expanded="true" signature="3023:3865" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="3889:3967" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="3998:4227" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="4034:4112" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="4258:4309" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="4340:4476" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="4517:5174" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="5215:6151" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="5221:5382" ph="/* we have to use this flip flag here because compareTo won't switch between asc/descending with the dateTime lik ... */" />
+            <marker date="1561075600952" expanded="true" signature="6222:6290" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="6325:6843" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="6359:6428" ph="{...}" />
+            <marker date="1561075600952" expanded="true" signature="6434:6492" ph="/* nuke this entry ... */" />
+            <marker date="1561075600952" expanded="true" signature="6671:6754" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Target.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="67" column="8" selection-start-line="67" selection-start-column="8" selection-end-line="67" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Options_BackgroundSelect.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2085">
+          <caret line="151" column="45" selection-start-line="151" selection-start-column="45" selection-end-line="151" selection-end-column="45" />
+          <folding>
+            <marker date="1567455259227" expanded="false" signature="6:128" ph="..." />
+            <marker date="1567455259227" expanded="true" signature="193:7678" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="954:1169" ph="[...]" />
+            <marker date="1567455259227" expanded="true" signature="1518:1555" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="1573:1628" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="1634:1759" ph="/// This should ONLY be called by CustomSprites after all custom images have been loaded ... " />
+            <marker date="1567455259227" expanded="true" signature="1788:3852" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="2197:2262" ph="/* now handle the videos ... */" />
+            <marker date="1567455259227" expanded="true" signature="2333:2426" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="2531:2771" ph="/* we have to use index counter here instead of indexof() the clip since we may use multiple ... */" />
+            <marker date="1567455259227" expanded="true" signature="2851:3716" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="2964:3116" ph="/* this will assign the matching index to the video button with its thumbnail ... */" />
+            <marker date="1567455259227" expanded="true" signature="3626:3685" ph="/* add custom videos lol ... */" />
+            <marker date="1567455259227" expanded="true" signature="3893:4316" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="4355:4511" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="4591:5520" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="5273:5514" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="5625:6547" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="6308:6540" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="6606:6737" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="6841:7676" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="6938:7301" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="7096:7242" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="7314:7670" ph="{...}" />
+            <marker date="1567455259227" expanded="true" signature="7453:7599" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Button_VideoButton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="9" column="103" selection-start-line="9" selection-start-column="103" selection-end-line="9" selection-end-column="103" />
+          <folding>
+            <marker date="1567455259236" expanded="false" signature="6:125" ph="..." />
+            <marker date="1567455259236" expanded="true" signature="174:925" ph="{...}" />
+            <marker date="1567455259236" expanded="true" signature="652:845" ph="{...}" />
+            <marker date="1567455259236" expanded="true" signature="872:923" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Reaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1035">
+          <caret line="77" column="52" selection-start-line="77" selection-start-column="52" selection-end-line="77" selection-end-column="52" />
+          <folding>
+            <marker date="1567454154165" expanded="true" signature="6:127" ph="..." />
+            <marker date="1567454154165" expanded="true" signature="189:4455" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="742:934" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="991:2825" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="1677:1727" ph="/* speedometer ... */" />
+            <marker date="1567454154165" expanded="true" signature="2223:2765" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="2856:3642" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="2976:3636" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="3672:4062" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="3796:4055" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="4097:4453" ph="{...}" />
+            <marker date="1567454154165" expanded="true" signature="4173:4447" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1B154FF-3244-4054-AB1D-6904CF68CB6C/d8/934fef87/String.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptions_Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="79" column="29" selection-start-line="79" selection-start-column="29" selection-end-line="79" selection-end-column="29" />
+          <folding>
+            <marker date="1567456826119" expanded="true" signature="20:357" ph="/// TestOptions_Base is a generic container to hold any given options for a test.  It handles getting/setting def ... " />
+            <marker date="1567456826119" expanded="true" signature="387:2751" ph="{...}" />
+            <marker date="1567456826119" expanded="true" signature="1133:1202" ph="/* test specific, these only show up in a single test ... */" />
+            <marker date="1567456826119" expanded="true" signature="2780:3548" ph="{...}" />
+            <marker date="1567456826119" expanded="true" signature="2828:3029" ph="/// If we want a value to be displayed as something different, we can set that here ... " />
+            <marker date="1567456826119" expanded="true" signature="3167:3353" ph="{...}" />
+            <marker date="1567456826119" expanded="true" signature="3397:3469" ph="{...}" />
+            <marker date="1567456826119" expanded="true" signature="3507:3546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOptionContainer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1557790926547" expanded="false" signature="6:100" ph="..." />
+            <marker date="1557790926547" expanded="true" signature="102:277" ph="/// Holds a reference to the test to which this belongs.  Only job is to instantiate and initialize the test opti ... " />
+            <marker date="1557790926547" expanded="true" signature="334:915" ph="{...}" />
+            <marker date="1557790926547" expanded="true" signature="452:913" ph="{...}" />
+            <marker date="1557790926547" expanded="true" signature="486:602" ph="{...}" />
+            <marker date="1557790926547" expanded="true" signature="738:853" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1560719737710" expanded="false" signature="11:56" ph="..." />
+            <marker date="1560719737710" expanded="true" signature="111:1557" ph="{...}" />
+            <marker date="1560719737710" expanded="true" signature="199:502" ph="{...}" />
+            <marker date="1560719737710" expanded="true" signature="281:413" ph="{...}" />
+            <marker date="1560719737710" expanded="true" signature="512:674" ph="/// When our referenced test is selected we want to set all the current test options to their ... " />
+            <marker date="1560719737710" expanded="true" signature="720:753" ph="{...}" />
+            <marker date="1560719737710" expanded="true" signature="763:1268" ph="/// Returns the index of the in the given array that equals the given value ... " />
+            <marker date="1560719737710" expanded="true" signature="1326:1551" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Background.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1B154FF-3244-4054-AB1D-6904CF68CB6C/de/80174ce5/NullReferenceException.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Test Options/TestOption_TargetMode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-850">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1560816548996" expanded="false" signature="6:143" ph="..." />
+            <marker date="1560816548996" expanded="true" signature="192:4138" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="525:920" ph="/// we have to use a flag to give the very first time the test is selected a chance to stay static, otherwise, ... " />
+            <marker date="1560816548996" expanded="true" signature="1008:2135" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="2179:3313" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="2497:3095" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="3385:3467" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="3554:3850" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="3664:3817" ph="{...}" />
+            <marker date="1560816548996" expanded="true" signature="3912:4126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-885">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1554765468466" expanded="false" signature="6:141" ph="..." />
+            <marker date="1554765468466" expanded="true" signature="202:8127" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="206:318" ph="/// the frequency of how we'll downsample the fp data when we're graphing it here ... " />
+            <marker date="1554765468466" expanded="true" signature="350:436" ph="/// the physcial component used to determine the bounds ... " />
+            <marker date="1554765468466" expanded="true" signature="478:561" ph="/// the parent object that will hold our data points ... " />
+            <marker date="1554765468466" expanded="true" signature="599:684" ph="/// List to hold our instantiated objects on the graph ... " />
+            <marker date="1554765468466" expanded="true" signature="728:791" ph="/// List to hold our touch lines ... " />
+            <marker date="1554765468466" expanded="true" signature="836:908" ph="/// prefab to draw the lines on the graph ... " />
+            <marker date="1554765468466" expanded="true" signature="949:1031" ph="/// the pfb we'll use to plot the down sampled data ... " />
+            <marker date="1554765468466" expanded="true" signature="1067:1141" ph="/// the pfb for the line indicating a touch ... " />
+            <marker date="1554765468466" expanded="true" signature="1180:1250" ph="/// when hard coding a path, use this.. ... " />
+            <marker date="1554765468466" expanded="true" signature="1279:1393" ph="/// An array of lists to hold all the data from the file, it will be time/copX/copY ... " />
+            <marker date="1554765468466" expanded="true" signature="1430:1500" ph="/// Array to hold all of the cop X data ... " />
+            <marker date="1554765468466" expanded="true" signature="1536:1606" ph="/// Array to hold all of the cop Y data ... " />
+            <marker date="1554765468466" expanded="true" signature="1642:1833" ph="/// An array of lists for the cop X data. Each array element will be 1 second, and the list itself will be a numb ... " />
+            <marker date="1554765468466" expanded="true" signature="1867:2058" ph="/// An array of lists for the cop Y data. Each array element will be 1 second, and the list itself will be a numb ... " />
+            <marker date="1554765468466" expanded="true" signature="2092:2167" ph="/// The physcial bounds of the graphing area ... " />
+            <marker date="1554765468466" expanded="true" signature="2466:5250" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="2501:2680" ph="/* we need to open our data file ... */" />
+            <marker date="1554765468466" expanded="true" signature="3107:3409" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="3720:3802" ph="/* add the touches ... */" />
+            <marker date="1554765468466" expanded="true" signature="4171:4461" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="4179:4457" ph="/* todo add the touch lines.... ... */" />
+            <marker date="1554765468466" expanded="true" signature="4467:4573" ph="/* add the hash marks and labels ... */" />
+            <marker date="1554765468466" expanded="true" signature="4624:5247" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="5266:5338" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="5272:5335" ph="/* testing ... */" />
+            <marker date="1554765468466" expanded="true" signature="5342:5435" ph="/// Populate m_fulldata with each column of data from our file ... " />
+            <marker date="1554765468466" expanded="true" signature="5462:6255" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="5615:5736" ph="/* todo this is testing only for now, need to point to the actual data... ... */" />
+            <marker date="1554765468466" expanded="true" signature="6032:6207" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="6289:7740" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="6295:6413" ph="/* A lot of this depends on an initial sampling rate of 1000... ... */" />
+            <marker date="1554765468466" expanded="true" signature="6810:6954" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="7051:7693" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="7199:7689" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="7782:8125" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Base.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+          <folding>
+            <marker date="1554765468504" expanded="false" signature="6:82" ph="..." />
+            <marker date="1554765468504" expanded="true" signature="144:2265" ph="{...}" />
+            <marker date="1554765468504" expanded="true" signature="464:606" ph="{...}" />
+            <marker date="1554765468504" expanded="true" signature="662:2074" ph="{...}" />
+            <marker date="1554765468504" expanded="true" signature="691:806" ph="{...}" />
+            <marker date="1554765468504" expanded="true" signature="1044:2026" ph="{...}" />
+            <marker date="1554765468504" expanded="true" signature="2107:2263" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Contrast.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="18" column="43" selection-start-line="14" selection-start-column="7" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <marker date="1554765468466" expanded="false" signature="6:110" ph="..." />
+            <marker date="1554765468466" expanded="true" signature="172:918" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="380:796" ph="{...}" />
+            <marker date="1554765468466" expanded="true" signature="830:916" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Peripheral.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="152" column="45" selection-start-line="152" selection-start-column="45" selection-end-line="152" selection-end-column="45" />
+          <folding>
+            <marker date="1564337918015" expanded="false" signature="6:121" ph="..." />
+            <marker date="1564337918015" expanded="true" signature="158:7769" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="210:387" ph="/// The radius of the focus zone with respect to its scale, this tells us how far from the origin we can move ... " />
+            <marker date="1564337918015" expanded="true" signature="668:2698" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="2503:2627" ph="/* we want to subscribe to the input mode being changed so we can auto selected focused mode if ... */" />
+            <marker date="1564337918015" expanded="true" signature="2765:3545" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="3401:3490" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="3585:4168" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="3754:4031" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="3762:3806" ph="/* we're in focused mode ... */" />
+            <marker date="1564337918015" expanded="true" signature="4203:4865" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="4488:4765" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="4496:4540" ph="/* we're in focused mode ... */" />
+            <marker date="1564337918015" expanded="true" signature="4911:5246" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="5289:5703" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="5745:5879" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="5936:6690" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="6445:6657" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="6724:7767" ph="{...}" />
+            <marker date="1564337918015" expanded="true" signature="6864:7047" ph="/* then manually set the toggles for the focus zone options ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C1B154FF-3244-4054-AB1D-6904CF68CB6C/60/e5ae27f3/List`1.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_SummaryGraphs.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="45" column="8" selection-start-line="45" selection-start-column="8" selection-end-line="45" selection-end-column="8" />
+          <folding>
+            <marker date="1568050817129" expanded="false" signature="6:54" ph="..." />
+            <marker date="1568050817129" expanded="true" signature="106:2515" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="550:587" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="634:757" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="784:939" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="995:2397" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="1032:2391" ph="{...}" />
+            <marker date="1568050817129" expanded="true" signature="2444:2513" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Bp_TargetHover.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3024">
+          <caret line="203" column="83" selection-start-line="203" selection-start-column="83" selection-end-line="203" selection-end-column="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Static.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/ConstantDefinitions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2480">
+          <caret line="172" column="24" selection-start-line="172" selection-start-column="24" selection-end-line="172" selection-end-column="24" />
+          <folding>
+            <marker date="1568051567835" expanded="false" signature="6:81" ph="..." />
+            <marker date="1568051567835" expanded="true" signature="103:254" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="277:313" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="343:505" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="536:597" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="632:667" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="706:749" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="777:927" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="951:1000" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1023:1098" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1121:1178" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1201:1242" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1274:1302" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1339:1398" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1458:3431" ph="{...}" />
+            <marker date="1568051567835" expanded="true" signature="1514:1706" ph="/// &quot;When the countdown is set to 0, this is the amount of time that will pass, but not be displayed ... " />
+            <marker date="1568051567835" expanded="true" signature="1781:1960" ph="/// &quot;Determines how close to the edge of the screen that the random target can spawn, as a percentage of the tota ... " />
+            <marker date="1568051567835" expanded="true" signature="2025:2243" ph="/// The positional limits of the star/stop button and info boxes.  These bounds ... " />
+            <marker date="1568051567835" expanded="true" signature="3392:3429" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/CustomSprites.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="16" column="53" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding>
+            <marker date="1568051125375" expanded="false" signature="6:114" ph="..." />
+            <marker date="1568051125375" expanded="true" signature="158:3307" ph="{...}" />
+            <marker date="1568051125375" expanded="true" signature="293:2249" ph="{...}" />
+            <marker date="1568051125375" expanded="true" signature="1385:1620" ph="/* load each custom background ... */" />
+            <marker date="1568051125375" expanded="true" signature="1998:2127" ph="/* load each custom target ... */" />
+            <marker date="1568051125375" expanded="true" signature="2255:2641" ph="/// When loading the sprites we have to pull them from the folder and convert them from textures to sprites ... " />
+            <marker date="1568051125375" expanded="true" signature="2726:3305" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Patient.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="42" column="58" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
+          <folding>
+            <marker date="1568051227111" expanded="false" signature="6:178" ph="..." />
+            <marker date="1568051227111" expanded="true" signature="234:5787" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="892:1219" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="1237:2714" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="1325:1450" ph="/* todo we'll need to read in any existing patients and populate things here ... */" />
+            <marker date="1568051227111" expanded="true" signature="2137:2708" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="2330:2451" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="2759:2852" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="2871:3074" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="2917:3068" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="3147:4254" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="3604:3769" ph="/* whenever we add a patient, we have to make a patient directory to store the patient info and test data ... */" />
+            <marker date="1568051227111" expanded="true" signature="4278:4351" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="4375:4560" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="4624:5056" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="4804:4992" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="5103:5251" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="5300:5367" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="5417:5785" ph="{...}" />
+            <marker date="1568051227111" expanded="true" signature="5509:5603" ph="/* p.m_name_first + &quot;_&quot; + p.m_name_last; ... */" />
+            <marker date="1568051227111" expanded="true" signature="5640:5757" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Summaries/TrainingSummary_Balance_Dynamic.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="688">
+          <caret line="50" column="9" selection-start-line="50" selection-start-column="9" selection-end-line="50" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="50" column="42" selection-start-line="50" selection-start-column="42" selection-end-line="50" selection-end-column="42" />
+          <folding>
+            <marker date="1568050817137" expanded="false" signature="6:66" ph="..." />
+            <marker date="1568050817137" expanded="true" signature="89:130" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="174:12576" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="829:977" ph="/// A global option, set only by the system menu, all tests are either yes/no to record data based on this bool ... " />
+            <marker date="1568050817137" expanded="true" signature="1027:1064" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="1112:2268" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="2274:2571" ph="/// this handles the loading of the backgrounds and targets so everything show up when we expect it to. ... " />
+            <marker date="1568050817137" expanded="true" signature="2604:3818" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="3323:3812" ph="/* todo timing is a big issue during startup ... */" />
+            <marker date="1568050817137" expanded="true" signature="3874:5604" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="3943:5601" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="4231:5070" ph="/* this is no longer needed since changing the canvas to camera space from world space... ... */" />
+            <marker date="1568050817137" expanded="true" signature="5278:5373" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="5650:7515" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="5683:7418" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="7558:9622" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="7842:8132" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="7900:8045" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="9114:9407" ph="/* but the test doesn't actually start until the countdown calls CountdownFinished() ... */" />
+            <marker date="1568050817137" expanded="true" signature="9628:9748" ph="/// this should ONLY be called by Countdown.  This is what actually starts the test ... " />
+            <marker date="1568050817137" expanded="true" signature="9784:10006" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="10048:10185" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="10250:11383" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="11429:11926" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="11975:12022" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="12055:12274" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="12326:12408" ph="{...}" />
+            <marker date="1568050817137" expanded="true" signature="12453:12564" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ChangePassword.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="42" column="57" selection-start-line="42" selection-start-column="57" selection-end-line="42" selection-end-column="57" />
+          <folding>
+            <marker date="1568221746273" expanded="true" signature="214:2461" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="513:713" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="746:1022" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="1062:1164" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="1197:2457" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="1362:1436" ph="{...}" />
+            <marker date="1568221746273" expanded="true" signature="1514:1587" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Managers/Manager_Users.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1856">
+          <caret line="131" column="68" selection-start-line="131" selection-start-column="68" selection-end-line="131" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_ConfirmUserDelete.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding>
+            <marker date="1568143778950" expanded="false" signature="6:100" ph="..." />
+            <marker date="1568143778950" expanded="true" signature="155:984" ph="{...}" />
+            <marker date="1568143778950" expanded="true" signature="348:572" ph="{...}" />
+            <marker date="1568143778950" expanded="true" signature="616:722" ph="{...}" />
+            <marker date="1568143778950" expanded="true" signature="747:850" ph="{...}" />
+            <marker date="1568143778950" expanded="true" signature="891:977" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_DeleteEntryConfirmation.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <marker date="1560533850241" expanded="false" signature="6:129" ph="..." />
+            <marker date="1560533850241" expanded="true" signature="200:932" ph="{...}" />
+            <marker date="1560533850241" expanded="true" signature="345:546" ph="{...}" />
+            <marker date="1560533850241" expanded="true" signature="574:643" ph="{...}" />
+            <marker date="1560533850241" expanded="true" signature="667:733" ph="{...}" />
+            <marker date="1560533850241" expanded="true" signature="773:801" ph="{...}" />
+            <marker date="1560533850241" expanded="true" signature="841:929" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AdminUserWarning.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="17" column="61" selection-start-line="17" selection-start-column="61" selection-end-line="17" selection-end-column="61" />
+          <folding>
+            <marker date="1568139854610" expanded="false" signature="6:100" ph="..." />
+            <marker date="1568139854610" expanded="true" signature="154:687" ph="{...}" />
+            <marker date="1568139854610" expanded="true" signature="316:494" ph="{...}" />
+            <marker date="1568139854610" expanded="true" signature="530:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_UserAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1568221072468" expanded="false" signature="6:53" ph="..." />
+            <marker date="1568221072468" expanded="true" signature="101:1190" ph="{...}" />
+            <marker date="1568221072468" expanded="true" signature="285:390" ph="{...}" />
+            <marker date="1568221072468" expanded="true" signature="436:634" ph="{...}" />
+            <marker date="1568221072468" expanded="true" signature="658:801" ph="{...}" />
+            <marker date="1568221072468" expanded="true" signature="824:938" ph="{...}" />
+            <marker date="1568221072468" expanded="true" signature="991:1188" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Graphs/Graph_Xaxis_Bar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1504">
+          <caret line="104" column="8" selection-start-line="104" selection-start-column="8" selection-end-line="104" selection-end-column="8" />
+          <folding>
+            <marker date="1568050817113" expanded="false" signature="6:139" ph="..." />
+            <marker date="1568050817113" expanded="true" signature="195:3427" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="571:650" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="577:644" ph="/* testing ... */" />
+            <marker date="1568050817113" expanded="true" signature="708:1980" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="749:805" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="1278:1977" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="1564:1744" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="1625:1678" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="1687:1739" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="2014:2134" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="2277:3425" ph="{...}" />
+            <marker date="1568050817113" expanded="true" signature="2853:3218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_AddUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="745">
+          <caret line="80" column="21" selection-start-line="80" selection-start-column="21" selection-end-line="80" selection-end-column="21" />
+          <folding>
+            <marker date="1568221522912" expanded="false" signature="6:176" ph="..." />
+            <marker date="1568221522912" expanded="true" signature="221:2453" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="495:667" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="700:830" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="859:1064" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="1089:1796" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="1095:1185" ph="/* make sure our junk is filled out ... */" />
+            <marker date="1568221522912" expanded="true" signature="1845:2059" ph="{...}" />
+            <marker date="1568221522912" expanded="true" signature="2092:2451" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/TextureScale.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Menu_Reports.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1554765468385" expanded="false" signature="6:141" ph="..." />
+            <marker date="1554765468385" expanded="true" signature="184:4232" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="526:629" ph="/// a list of all of the strings currently shown in the scoreboard ... " />
+            <marker date="1554765468385" expanded="true" signature="728:765" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="812:1154" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="1193:1311" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="1343:1509" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="1545:1682" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="1730:1778" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="1784:2071" ph="/// Add an entry to the scoreboard using the new method with a predetermined entry and its necessary ... " />
+            <marker date="1554765468385" expanded="true" signature="2120:3183" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="2293:2451" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="3229:4230" ph="{...}" />
+            <marker date="1554765468385" expanded="true" signature="3257:4224" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientDisplay.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="23" column="47" selection-start-line="23" selection-start-column="47" selection-end-line="23" selection-end-column="47" />
+          <folding>
+            <marker date="1569004517991" expanded="false" signature="6:142" ph="..." />
+            <marker date="1569004517991" expanded="true" signature="197:1071" ph="{...}" />
+            <marker date="1569004517991" expanded="true" signature="330:355" ph="{...}" />
+            <marker date="1569004517991" expanded="true" signature="404:542" ph="{...}" />
+            <marker date="1569004517991" expanded="true" signature="570:878" ph="{...}" />
+            <marker date="1569004517991" expanded="true" signature="914:1003" ph="{...}" />
+            <marker date="1569004517991" expanded="true" signature="1033:1069" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/PatientTrainingSummary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="72" selection-start-line="72" selection-end-line="72" />
+          <folding>
+            <marker date="1569004518000" expanded="false" signature="6:109" ph="..." />
+            <marker date="1569004518000" expanded="true" signature="111:284" ph="/// this is a generic container to hold all test data for a training that can be used to create the training suma ... " />
+            <marker date="1569004518000" expanded="true" signature="342:4725" ph="{...}" />
+            <marker date="1569004518000" expanded="true" signature="2811:4723" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test_Speed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="146" column="23" selection-start-line="146" selection-start-column="23" selection-end-line="146" selection-end-column="23" />
+          <folding>
+            <marker date="1564337315926" expanded="false" signature="6:114" ph="..." />
+            <marker date="1564337315926" expanded="true" signature="146:4813" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="190:266" ph="/// the index of the last target we activated ... " />
+            <marker date="1564337315926" expanded="true" signature="298:670" ph="/* [BoxGroup(&quot;Test Specific Settings&quot;)] public int m_duration_default, ... */" />
+            <marker date="1564337315926" expanded="true" signature="739:2362" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="1701:1963" ph="/* m_last_duration = m_duration_default; ... */" />
+            <marker date="1564337315926" expanded="true" signature="2396:2738" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="2420:2735" ph="/* m_testOptions.InvokeButton_Duration(m_last_duration); ... */" />
+            <marker date="1564337315926" expanded="true" signature="2770:3188" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="3228:3293" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="3328:3543" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="3589:4176" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="3799:3836" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="3842:3985" ph="/* we hit a correct target, so add to the score and make a new target ... */" />
+            <marker date="1564337315926" expanded="true" signature="4232:4367" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="4408:4542" ph="{...}" />
+            <marker date="1564337315926" expanded="true" signature="4580:4811" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Window_UserLogin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="39" column="56" selection-start-line="39" selection-start-column="56" selection-end-line="39" selection-end-column="56" />
+          <folding>
+            <marker date="1568565162914" expanded="false" signature="6:113" ph="..." />
+            <marker date="1568565162914" expanded="true" signature="160:1520" ph="{...}" />
+            <marker date="1568565162914" expanded="true" signature="475:700" ph="{...}" />
+            <marker date="1568565162914" expanded="true" signature="733:936" ph="{...}" />
+            <marker date="1568565162914" expanded="true" signature="976:1077" ph="{...}" />
+            <marker date="1568565162914" expanded="true" signature="1113:1518" ph="{...}" />
+            <marker date="1568565162914" expanded="true" signature="1295:1388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Tests/Test.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4950">
+          <caret line="363" column="54" selection-start-line="363" selection-start-column="54" selection-end-line="363" selection-end-column="54" />
+          <folding>
+            <marker date="1569004518008" expanded="false" signature="6:182" ph="..." />
+            <marker date="1569004518008" expanded="true" signature="227:19367" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="266:348" ph="/// Event will be fired whenever a test is selected ... " />
+            <marker date="1569004518008" expanded="true" signature="530:619" ph="/// generic holder for tracking misses during a test ... " />
+            <marker date="1569004518008" expanded="true" signature="668:761" ph="/// How much time has elapsed since we started this test ... " />
+            <marker date="1569004518008" expanded="true" signature="820:878" ph="/// this this test running? ... " />
+            <marker date="1569004518008" expanded="true" signature="947:1341" ph="/* the duration, in seconds, of this test ... */" />
+            <marker date="1569004518008" expanded="true" signature="1347:1432" ph="/// A generic holder for any type of int scoring ... " />
+            <marker date="1569004518008" expanded="true" signature="1480:1549" ph="/// the running highest streak.. ... " />
+            <marker date="1569004518008" expanded="true" signature="1609:1714" ph="/// generic holder for tracking streak, handled in base.lateUpdate() ... " />
+            <marker date="1569004518008" expanded="true" signature="1763:1840" ph="/// allows us to track time between hits ... " />
+            <marker date="1569004518008" expanded="true" signature="1898:2032" ph="/// the time since the last target was hit, when to reset this should be up to each deriving test ... " />
+            <marker date="1569004518008" expanded="true" signature="2096:2227" ph="/// anytime there is a mouseup(0) this is set during update and then checked during lateUpdate ... " />
+            <marker date="1569004518008" expanded="true" signature="2268:2389" ph="/// This should be set only by Target() and only if it was active and hit this frame ... " />
+            <marker date="1569004518008" expanded="true" signature="2461:2603" ph="/// Do we want the base class to track timing between hits?  This should be off for memory and reaction.. ... " />
+            <marker date="1569004518008" expanded="true" signature="2660:2791" ph="/// is this timed to that we should track elapsed time and end the test when we hit a duration ... " />
+            <marker date="1569004518008" expanded="true" signature="2844:2925" ph="/// how long the current target has been shown for ... " />
+            <marker date="1569004518008" expanded="true" signature="2976:3070" ph="/// The times mousedown(0) occurred, according to m_elapsedTime ... " />
+            <marker date="1569004518008" expanded="true" signature="3126:3194" ph="/// stream writer for writing bp data ... " />
+            <marker date="1569004518008" expanded="true" signature="3233:3315" ph="/// If we recorded data, this is where it is stored ... " />
+            <marker date="1569004518008" expanded="true" signature="3350:3430" ph="/// how long have we been hovering over a target? ... " />
+            <marker date="1569004518008" expanded="true" signature="3488:3607" ph="/// flag to check if the balance plate cursor is currently over the active target or not ... " />
+            <marker date="1569004518008" expanded="true" signature="3645:3827" ph="/// A flag to check if a target has been pre=spawned in this test, this allows us not to double up on setup ... " />
+            <marker date="1569004518008" expanded="true" signature="3939:4052" ph="/* public bool m_defaultIsVideo; ... */" />
+            <marker date="1569004518008" expanded="true" signature="4156:4380" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="4384:4569" ph="/// Update is called once per frame, base updates the duration and ends the test when the time is up ... " />
+            <marker date="1569004518008" expanded="true" signature="4599:5873" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="4743:4806" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="4903:5726" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="4995:5128" ph="/* we also have to handle a manual raycast if we're in ehb mode since the bp cursor collider will ... */" />
+            <marker date="1569004518008" expanded="true" signature="5191:5722" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="5342:5717" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="5386:5711" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="5750:5847" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="5876:6123" ph="/// Late update is needed to keep track of our hit times.  This allows us to tell if the user touched the screen  ... " />
+            <marker date="1569004518008" expanded="true" signature="6159:7393" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="6391:6983" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="6411:6549" ph="/* if a test is using the cursor but has hover time set to 0 just ignore this, otherwise the progress ring ... */" />
+            <marker date="1569004518008" expanded="true" signature="6680:6973" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="7398:7474" ph="/// Each test should handle this individually ... " />
+            <marker date="1569004518008" expanded="true" signature="7518:7526" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="7529:7748" ph="/// this is a special mode of the target hit method intended for BP hover test only. ... " />
+            <marker date="1569004518008" expanded="true" signature="7784:7793" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="7796:8044" ph="/// this is called when there is a touch this frame, but the active target wasn't hit this frame ... " />
+            <marker date="1569004518008" expanded="true" signature="8083:8492" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="8495:8585" ph="/// Returns the string to be shown in the test info display ... " />
+            <marker date="1569004518008" expanded="true" signature="8624:8654" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="8698:8707" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="8710:8847" ph="/// called when this test is to be started, base sets running = true and resets the elapsed time and score ... " />
+            <marker date="1569004518008" expanded="true" signature="8880:9722" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="9029:9179" ph="/* if either of these are carried over from a previous test and is still true, it can make a false miss appear, ... */" />
+            <marker date="1569004518008" expanded="true" signature="9352:9559" ph="/* todo resetting these here is fine for data purposes, but it will show the previous score and elapsed time ... */" />
+            <marker date="1569004518008" expanded="true" signature="9725:9909" ph="/// This is for tests in balance modes that need to spawn their initial target while the countdown is going on, b ... " />
+            <marker date="1569004518008" expanded="true" signature="9947:9956" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="9959:10571" ph="/// anything we need to do when this test is stopped, base will set running=false.  This should ONLY ever be  ... " />
+            <marker date="1569004518008" expanded="true" signature="10625:10925" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="10674:10837" ph="/* we can reset the decay of the bp cursor here for now, in case it was mid-progress when a test was stopped ... */" />
+            <marker date="1569004518008" expanded="true" signature="10928:11464" ph="/// Here we add the test summary with all of the info that test reports need.  The default call will ... " />
+            <marker date="1569004518008" expanded="true" signature="11519:14106" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="12843:13037" ph="/* doing this check allows us to see if the short score is emptry or not, ... */" />
+            <marker date="1569004518008" expanded="true" signature="13814:14009" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="14109:14516" ph="/// Anything we need to do when this test is selected in the main menu, base will show the target set for this ty ... " />
+            <marker date="1569004518008" expanded="true" signature="14548:15270" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="15273:15429" ph="/// Start the process of recording force plate data to our patient.  We need to have an active patient and ... " />
+            <marker date="1569004518008" expanded="true" signature="15461:16251" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="15915:16187" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="16254:16449" ph="/// Stop writing BP data, this MUST be called whenever a test is stopped for ANY reason otherwise it will keep ... " />
+            <marker date="1569004518008" expanded="true" signature="16482:16605" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="16612:16993" ph="/// Handle anything we want to when in balance mode only for the bp cursor interacting with targets ... " />
+            <marker date="1569004518008" expanded="true" signature="17045:17225" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="17228:17293" ph="/// See comment for Target_Enter() ... " />
+            <marker date="1569004518008" expanded="true" signature="17345:18727" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="17633:17965" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="17969:18225" ph="/* this should count as a target hit  if we're in balance mode only, ebh mode is handled below ... */" />
+            <marker date="1569004518008" expanded="true" signature="18263:18328" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="18346:18450" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="18566:18698" ph="/* then manually invoke the exit since the cursor won't physically exit, and the Exit() method would never ... */" />
+            <marker date="1569004518008" expanded="true" signature="18731:18796" ph="/// See comment for Target_Enter() ... " />
+            <marker date="1569004518008" expanded="true" signature="18847:19077" ph="{...}" />
+            <marker date="1569004518008" expanded="false" signature="19080:19365" ph="Special parameter-less hover events for BP target" />
+            <marker date="1569004518008" expanded="true" signature="19173:19209" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="19245:19280" ph="{...}" />
+            <marker date="1569004518008" expanded="true" signature="19317:19353" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples/Scripts/Benchmark01.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1554765471007" expanded="false" signature="6:44" ph="..." />
+            <marker date="1554765471007" expanded="true" signature="71:4333" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="123:4331" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="539:596" ph="/* private string m_string; ... */" />
+            <marker date="1554765471007" expanded="true" signature="706:3970" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="781:2509" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="1094:1443" ph="/* m_textMeshPro.font = Resources.Load(&quot;Fonts &amp; Materials/Anton SDF&quot;, typeof(TextMeshProFont)) as TextMeshProFont ... */" />
+            <marker date="1554765471007" expanded="true" signature="1693:1978" ph="/* m_textMeshPro.outlineWidth = 0.25f; ... */" />
+            <marker date="1554765471007" expanded="true" signature="2057:2233" ph="/* m_textMeshPro.lineLength = 60; ... */" />
+            <marker date="1554765471007" expanded="true" signature="2562:3306" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="2685:2872" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="2893:3119" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="3356:3927" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="3410:3761" ph="{...}" />
+            <marker date="1554765471007" expanded="true" signature="3981:4325" ph="/* void Update() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples/Scripts/Benchmark01_UGUI.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <marker date="1554765471004" expanded="false" signature="6:66" ph="..." />
+            <marker date="1554765471004" expanded="true" signature="93:4592" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="150:4589" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="595:846" ph="/* private const string label01 = &quot;TextMesh &lt;##0050FF&gt;Pro!&lt;/color&gt;  The count is: {0}&quot;; ... */" />
+            <marker date="1554765471004" expanded="true" signature="956:4216" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="1031:2777" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="1356:1716" ph="/* m_textMeshPro.font = Resources.Load(&quot;Fonts &amp; Materials/Anton SDF&quot;, typeof(TextMeshProFont)) as TextMeshProFont ... */" />
+            <marker date="1554765471004" expanded="true" signature="1966:2507" ph="/* m_textMeshPro.outlineWidth = 0.25f; ... */" />
+            <marker date="1554765471004" expanded="true" signature="2830:3551" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="2949:3122" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="3143:3357" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="3182:3339" ph="/* m_textMesh.font = Resources.Load(&quot;Fonts/ARIAL&quot;, typeof(Font)) as Font; ... */" />
+            <marker date="1554765471004" expanded="true" signature="3601:4173" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="3655:4007" ph="{...}" />
+            <marker date="1554765471004" expanded="true" signature="4227:4583" ph="/* void Update() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_Scoreboard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="11" column="11" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+          <folding>
+            <marker date="1554765468284" expanded="false" signature="6:87" ph="..." />
+            <marker date="1554765468284" expanded="true" signature="134:533" ph="{...}" />
+            <marker date="1554765468284" expanded="true" signature="372:431" ph="{...}" />
+            <marker date="1554765468284" expanded="true" signature="460:531" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/SystemWindow.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1569005356782" expanded="true" signature="6:67" ph="..." />
+            <marker date="1569005356782" expanded="true" signature="110:2131" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="527:564" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="611:1171" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1205:1369" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1394:1434" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1459:1492" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1530:1594" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1627:1696" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1741:1808" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1843:1906" ph="{...}" />
+            <marker date="1569005356782" expanded="true" signature="1947:2129" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Program Data/Scripts/Entry_PatientTestSummary.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="150" column="32" selection-start-line="150" selection-start-column="32" selection-end-line="150" selection-end-column="32" />
+          <folding>
+            <marker date="1569006537650" expanded="true" signature="6:183" ph="..." />
+            <marker date="1569006537650" expanded="true" signature="248:9393" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="628:793" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="861:1235" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="1265:1291" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="1321:1505" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="1536:1604" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="1636:1671" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="1703:5458" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="4052:4203" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="4363:5006" ph="/* this works fine in the editor but won't work in a build since the paths don't stay this way.. ... */" />
+            <marker date="1569006537650" expanded="true" signature="5049:5185" ph="/* page1.newAddImage(tex.EncodeToJPG(), 0, image_yPos, 64, 64); ... */" />
+            <marker date="1569006537650" expanded="true" signature="5523:5696" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="5723:5768" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="5815:9391" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="5858:9385" ph="{...}" />
+            <marker date="1569006537650" expanded="true" signature="7634:7806" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="hg4idea.settings">
+    <option name="CHECK_INCOMING_OUTGOING" value="false" />
+    <option name="RECENT_HG_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+</project>

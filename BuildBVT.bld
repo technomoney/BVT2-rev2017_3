@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='utf-8'?>
+<project version='10' encrypted='1'>
+	<steps type='0'>
+		<step action='Set Macro'>
+			<MacroName>UNITYEXE</MacroName>
+			<MacroValue>"C:\Program Files\Unity2017\Editor\Unity.exe"</MacroValue>
+			<description>Set the macro to point where Unity is at</description>
+			<name>Set Unity location</name>
+		</step>
+		<step action='Set Macro'>
+			<MacroName>UNITYOUTPUTFOLDER</MacroName>
+			<MacroValue>%TEMP%\BVTBuild</MacroValue>
+			<description>Set where the output folder is for all of the build targets</description>
+			<name>Set Output Folder</name>
+		</step>
+		<step action='Set Macro'>
+			<MacroName>UNITYPROJECTROOTDIR</MacroName>
+			<MacroValue>C:\Sourcecode\UnityProjects\BVT</MacroValue>
+			<description>Set where the projects are all stored </description>
+			<name>Set project root dir</name>
+		</step>
+		<step action='Set Macro'>
+			<MacroName>BUILDNUMJSON</MacroName>
+			<MacroValue>%UNITYPROJECTROOTDIR%\Assets\Resources\BUILDNUM.json</MacroValue>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Set BUILDNUM file</name>
+		</step>
+		<step action='Run Program'>
+			<command>%DOSCMD% git checkout Assets\Resources\BUILDNUM.json</command>
+			<deloutfile type='11'>-1</deloutfile>
+			<name>Revert BUILDNUM file</name>
+			<outputfrom type='3'>1</outputfrom>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Group'>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Check for mainline branch and uncommited changes</name>
+		</step>
+		<step action='Set Macro'>
+			<MacroName>CHECKFILE</MacroName>
+			<MacroValue>%TEMP%\checkbranch.txt</MacroValue>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<indent type='3'>1</indent>
+			<name>Set temp file macro</name>
+		</step>
+		<step action='Delete Files'>
+			<HideOn type='11'>-1</HideOn>
+			<LogDel type='11'>-1</LogDel>
+			<Path>%CHECKFILE%</Path>
+			<SysOn type='11'>-1</SysOn>
+			<indent type='3'>1</indent>
+			<name>Delete temp file</name>
+		</step>
+		<step action='Run Program'>
+			<command><![CDATA[%DOSCMD% git rev-parse --abbrev-ref HEAD > %CHECKFILE%]]></command>
+			<deloutfile type='11'>-1</deloutfile>
+			<indent type='3'>1</indent>
+			<name>Get current branch</name>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Read File'>
+			<FailNoMatch type='11'>-1</FailNoMatch>
+			<FileIn>%CHECKFILE%</FileIn>
+			<Find>.+</Find>
+			<Macro>BRANCHNAME</Macro>
+			<NoModS type='11'>-1</NoModS>
+			<indent type='3'>1</indent>
+			<name>Read branch file</name>
+		</step>
+		<step action='Delete Files'>
+			<HideOn type='11'>-1</HideOn>
+			<LogDel type='11'>-1</LogDel>
+			<Path>%CHECKFILE%</Path>
+			<SysOn type='11'>-1</SysOn>
+			<indent type='3'>1</indent>
+			<name>Delete temp file</name>
+		</step>
+		<step action='Exit'>
+			<Message>*** Not mainline branch, failing build.</Message>
+			<Status type='3'>1</Status>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<condcompareto>master</condcompareto>
+			<condcomparison type='3'>4</condcomparison>
+			<condexpr>%BRANCHNAME%</condexpr>
+			<indent type='3'>1</indent>
+			<name>Exit if not mainline</name>
+		</step>
+		<step action='Run Program'>
+			<checked type='11'>0</checked>
+			<command><![CDATA[%DOSCMD% hg id > %CHECKFILE%]]></command>
+			<deloutfile type='11'>-1</deloutfile>
+			<indent type='3'>1</indent>
+			<name>Get current id</name>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Read File'>
+			<FailNoMatch type='11'>-1</FailNoMatch>
+			<FileIn>%CHECKFILE%</FileIn>
+			<Find>.+</Find>
+			<Macro>BRANCHNAME</Macro>
+			<NoModS type='11'>-1</NoModS>
+			<checked type='11'>0</checked>
+			<indent type='3'>1</indent>
+			<name>Read id tagline</name>
+		</step>
+		<step action='Delete Files'>
+			<HideOn type='11'>-1</HideOn>
+			<LogDel type='11'>-1</LogDel>
+			<Path>%CHECKFILE%</Path>
+			<SysOn type='11'>-1</SysOn>
+			<checked type='11'>0</checked>
+			<indent type='3'>1</indent>
+			<name>Delete temp file</name>
+		</step>
+		<step action='Exit'>
+			<Message>*** Not tip revision, failing build.</Message>
+			<Status type='3'>1</Status>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<checked type='11'>0</checked>
+			<condcompareto>tip</condcompareto>
+			<condcomparison type='3'>5</condcomparison>
+			<condexpr>%BRANCHNAME%</condexpr>
+			<indent type='3'>1</indent>
+			<name>Exit if not tip</name>
+		</step>
+		<step action='Run Program'>
+			<command>%DOSCMD% git update-index --refresh </command>
+			<deloutfile type='11'>-1</deloutfile>
+			<description>Will error and stop if uncommited changes</description>
+			<indent type='3'>1</indent>
+			<name>Refresh index</name>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Run Program'>
+			<command><![CDATA[%DOSCMD% git describe --always --abbrev=40 --dirty=+ > %CHECKFILE%]]></command>
+			<deloutfile type='11'>-1</deloutfile>
+			<indent type='3'>1</indent>
+			<name>Check for uncommited files</name>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Read File'>
+			<FailNoMatch type='11'>-1</FailNoMatch>
+			<FileIn>%CHECKFILE%</FileIn>
+			<Find>.+</Find>
+			<Macro>BRANCHNAME</Macro>
+			<NoModS type='11'>-1</NoModS>
+			<indent type='3'>1</indent>
+			<name>Read branch file</name>
+		</step>
+		<step action='Exit'>
+			<Message>*** Working directory appears to have changes, failing build.</Message>
+			<Status type='3'>1</Status>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<condcompareto>+</condcompareto>
+			<condcomparison type='3'>2</condcomparison>
+			<condexpr>%BRANCHNAME%</condexpr>
+			<indent type='3'>1</indent>
+			<name>Exit if modified files</name>
+		</step>
+		<step action='Set Macro'>
+			<MacroDescr>will be the guid</MacroDescr>
+			<MacroName>COMMITID</MacroName>
+			<MacroValue>%BRANCHNAME%</MacroValue>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<indent type='3'>1</indent>
+			<name>Set repo commit id</name>
+		</step>
+		<step action='Log Message'>
+			<Level type='3'>5</Level>
+			<Message>Repo commit id: %COMMITID%</Message>
+			<indent type='3'>1</indent>
+			<name>Show repo commit id</name>
+		</step>
+		<step action='Set Macro'>
+			<DeleteMacro type='11'>-1</DeleteMacro>
+			<MacroName>CHECKFILE</MacroName>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<indent type='3'>1</indent>
+			<name>Clear temp file macro</name>
+		</step>
+		<step action='Set Macro'>
+			<DeleteMacro type='11'>-1</DeleteMacro>
+			<MacroName>BRANCHNAME</MacroName>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<indent type='3'>1</indent>
+			<name>Clear BRANCHNAME macro</name>
+		</step>
+		<step action='Group'>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Update build #</name>
+		</step>
+		<step action='Run Program'>
+			<ShowCmd type='11'>-1</ShowCmd>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<command>%BERTECROOT%\_supportingCast\stampver\StampVer.exe -v"%BUILDNUMJSON%" -i4 -j4 -d1 -c"%COMMITID%" -s -w</command>
+			<description>Updates the json file in the resource folder with a new build number, date, and source control revison.</description>
+			<indent type='3'>1</indent>
+			<name>Update buildnum.json</name>
+			<outputfrom type='3'>1</outputfrom>
+			<successcodes>0</successcodes>
+		</step>
+		<step action='Read File'>
+			<FailNoMatch type='11'>-1</FailNoMatch>
+			<FileIn>%BUILDNUMJSON%</FileIn>
+			<Find>"ProductVersion":\s"(.+)"</Find>
+			<Macro>BUILDNUMBER</Macro>
+			<Match type='3'>1</Match>
+			<NoModS type='11'>-1</NoModS>
+			<indent type='3'>1</indent>
+			<name>Read build number</name>
+		</step>
+		<step action='Create Folder'>
+			<Path>%UNITYOUTPUTFOLDER%</Path>
+			<description>Make sure that the output folder exists</description>
+			<name>Create Output Folder</name>
+		</step>
+		<step action='Delete Files'>
+			<DelDirs type='11'>-1</DelDirs>
+			<ExclExt>*.cfg</ExclExt>
+			<HideOn type='11'>-1</HideOn>
+			<LogDel type='11'>-1</LogDel>
+			<NoDelRoot type='11'>-1</NoDelRoot>
+			<Path>%UNITYOUTPUTFOLDER%</Path>
+			<Recurse type='11'>-1</Recurse>
+			<SysOn type='11'>-1</SysOn>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Delete Existing Output</name>
+		</step>
+		<step action='Run Program'>
+			<command>%UNITYEXE% -nographics -batchmode -quit -projectPath "%UNITYPROJECTROOTDIR%" -buildWindows64Player %UNITYOUTPUTFOLDER%\BVT.exe</command>
+			<name>Build Unity Project</name>
+			<outputfrom type='3'>1</outputfrom>
+			<retries>2</retries>
+			<retrypause>2</retrypause>
+		</step>
+		<step action='Set Macro'>
+			<MacroName>BVTEXE</MacroName>
+			<MacroValue>%UNITYOUTPUTFOLDER%\BVT.exe</MacroValue>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Set BVTexe macro</name>
+		</step>
+		<step action='Run Program'>
+			<ShowCmd type='11'>-1</ShowCmd>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<command>%BERTECROOT%\_supportingCast\stampver\StampVer.exe -v"%BUILDNUMJSON%" -n -x "%BVTEXE%"</command>
+			<description>Takes the updated buildnum file and applies it to the Unity exe</description>
+			<name>Label BVT.exe</name>
+			<outputfrom type='3'>1</outputfrom>
+			<successcodes>0</successcodes>
+		</step>
+		<step action='Sign Code'>
+			<Filename>%BVTEXE%</Filename>
+			<KeepMod type='11'>-1</KeepMod>
+			<Store type='3'>2</Store>
+			<TimeServer>http://timestamp.globalsign.com/scripts/timstamp.dll</TimeServer>
+			<name>Sign EXE</name>
+		</step>
+		<step action='Sign Code'>
+			<Command type='3'>2</Command>
+			<Filename>%BVTEXE%</Filename>
+			<KeepMod type='11'>-1</KeepMod>
+			<Store type='3'>2</Store>
+			<TimeServer>http://timestamp.globalsign.com/scripts/timstamp.dll</TimeServer>
+			<name>Verify Signed EXE</name>
+		</step>
+		<step action='Inno Setup'>
+			<Exe>C:\Program Files (x86)\Inno Setup 6\ISCC.exe</Exe>
+			<Filename>%PROJDIR%\InstallBVT.iss</Filename>
+			<ISPPCompat type='11'>-1</ISPPCompat>
+			<Options>"/Sstandardsigning=signtool sign /a /fd sha256 /tr http://sha256timestamp.ws.symantec.com/sha256/timestamp /td sha256 $f"</Options>
+			<Quiet type='11'>-1</Quiet>
+			<name>Make BVT Setup</name>
+		</step>
+		<step action='Sign Code'>
+			<Command type='3'>2</Command>
+			<Filename>%BERTECINSTALLOUT%\BertecVisionTrainerSetup.exe</Filename>
+			<KeepMod type='11'>-1</KeepMod>
+			<Store type='3'>2</Store>
+			<TimeServer>http://timestamp.globalsign.com/scripts/timstamp.dll</TimeServer>
+			<name>Verify Signed Install</name>
+		</step>
+		<step action='Rename Files'>
+			<Dir>%BERTECINSTALLOUT%</Dir>
+			<Ext>BertecVisionTrainerSetup.exe</Ext>
+			<Find>(.+)\.exe</Find>
+			<FirstOnly type='11'>-1</FirstOnly>
+			<HideOn type='11'>-1</HideOn>
+			<LogRenamed type='11'>-1</LogRenamed>
+			<Overwrite type='11'>-1</Overwrite>
+			<Replace>\1_build_[noDots("%BUILDNUMBER%")].exe</Replace>
+			<SysOn type='11'>-1</SysOn>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Rename Files</name>
+		</step>
+		<step action='Group'>
+			<buildfailsteps type='11'>0</buildfailsteps>
+			<name>Commit buildnums and tag</name>
+		</step>
+		<step action='Run Program'>
+			<ShowCmd type='11'>-1</ShowCmd>
+			<command>%DOSCMD% git commit -m "BVT build %BUILDNUMBER%" "*/*/BUILDNUM.json"</command>
+			<deloutfile type='11'>-1</deloutfile>
+			<indent type='3'>1</indent>
+			<name>Checkin BUILDNUM.json</name>
+			<outputfrom type='3'>1</outputfrom>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step>
+		<step action='Run Program'>
+			<ShowCmd type='11'>-1</ShowCmd>
+			<command>%DOSCMD% git tag -f "BVT_build_%BUILDNUMBER%"</command>
+			<deloutfile type='11'>-1</deloutfile>
+			<indent type='3'>1</indent>
+			<name>Tag build</name>
+			<outputfrom type='3'>1</outputfrom>
+			<startin>%UNITYPROJECTROOTDIR%</startin>
+		</step></steps>
+	<script language='VBScript'><![CDATA[Function split(s)
+ Set e = New RegExp
+ e.Pattern = "([a-zA-Z0-9]+)"
+ Set matches = e.Execute(s)
+ If (matches.Count = 1) Then
+    split = matches(0)
+ End If
+End Function
+
+Function noDots(s)
+ noDots = Replace(s,".","_")
+End Function]]></script>
+</project>
